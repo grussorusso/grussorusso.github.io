@@ -2,10 +2,13 @@
 name: Gabriele Russo Russo
 
 # Short bio or description (displayed in the header)
-description: PhD student
+description: University of Rome Tor Vergata
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/jekyll-logo.png
+
+# Enable navigation menu in the header
+shownav: false
 
 #
 # Flags below are optional

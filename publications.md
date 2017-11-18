@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Publications
+permalink: /publications/
 ---
 
-Some information about you!
+Publications to be added here...
 
 ### More Information
 
