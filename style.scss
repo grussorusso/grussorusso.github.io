@@ -19,8 +19,9 @@ html {
 }
 
 #wrapper {
-	height: 100%;
+	min-height: 100%;
 	position: relative;
+  padding-bottom: $footerHeight;
 }
 
 body {
@@ -288,14 +289,16 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
+  margin-bottom: 0;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
   
   /* for having it always at the bottom */
-  min-width: 100%;
   position: absolute;
+  min-width: 100%;
   bottom: 0;
+  height: $footerHeight;
 }
 
 footer {
