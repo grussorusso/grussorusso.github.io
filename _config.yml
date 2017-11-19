@@ -8,7 +8,7 @@ description: University of Rome Tor Vergata
 avatar: /images/jekyll-logo.png
 
 # Enable navigation menu in the header
-shownav: false
+shownav: true
 
 #
 # Flags below are optional

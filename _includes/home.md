@@ -8,9 +8,39 @@ in the Fog.
 Here you can find a list of [my publications]({{ site.baseurl }}publications/)
 and my [CV]({{ site.baseurl }}assets/CV.pdf).
 
-## Contact information ##
 
+&nbsp;
+
+
+## Contact information ##
+<a name ="contact"></a>
+Gabriele Russo Russo<br/>
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
 Università di Roma "Tor Vergata"<br/>
 Via del Politecnico 1, 00133 Roma, Italy<br/>
 **e-mail goes here**
+
+
+ 
+ 
+&nbsp;
+
+
+
+## Biography ##
+<a name ="bio"></a>
+**Since November 2017**: PhD student in Computer Science, Control and
+Geoinformation at University of Rome Tor Vergata.
+
+**April 2017**: *Laurea Magistrale* (Master's degree) *cum laude* in Computer 
+Engineering at University of Rome Tor Vergata. Thesis: ``Optimal Deployment
+and Run-Time Reconfiguration for Elastic Data Stream Processing''. Advisors: Prof.
+Valeria Cardellini and Prof. Francesco Lo Presti.
+
+**October 2014**: *Laurea* (Bachelor's degree) *cum laude* in Computer
+Engineering at University of Rome Tor Vergata. Thesis: ``Analysis and Implementation of Energy-Aware Routing Algorithms for Ad-Hoc Wireless
+Networks''. Advisor: Prof.
+Francesco Lo Presti.
+
+&nbsp;
+
