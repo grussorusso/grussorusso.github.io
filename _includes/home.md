@@ -5,7 +5,7 @@ My research interests span the area of Distributed Systems with enphasis on perf
 I am currently investigating solutions for decentralized control of Big Data processing systems
 in the Fog.
 
-Here you can find a list of [my publications]({{ site.baseurl }}publications/)
+Here you can find a list of [my publications]({{ site.baseurl }}/publications.html)
 and my [CV]({{ site.baseurl }}assets/CV.pdf).
 
 
