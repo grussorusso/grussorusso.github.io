@@ -3,7 +3,7 @@ I am a Computer Science PhD student at the
 
 My research interests span the area of Distributed Systems with enphasis on performance optimization.
 I am currently investigating solutions for decentralized control of Big Data processing systems
-in the Fog.
+in geographically distributed environments.
 
 Here you can find a list of [my publications]({{ site.baseurl }}/publications.html)
 and my [CV]({{ site.baseurl }}/assets/cv.pdf).
