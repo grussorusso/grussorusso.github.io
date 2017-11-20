@@ -12,8 +12,8 @@ and my [CV]({{ site.baseurl }}/assets/cv.pdf).
 &nbsp;
 
 
-## Contact information ##
 <a name ="contact"></a>
+## Contact information ##
 Gabriele Russo Russo<br/>
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
 Università di Roma "Tor Vergata"<br/>
@@ -27,8 +27,8 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 
 
 
-## Biography ##
 <a name ="bio"></a>
+## Biography ##
 **Since November 2017**: PhD student in Computer Science, Control and
 Geoinformation at University of Rome Tor Vergata.
 
