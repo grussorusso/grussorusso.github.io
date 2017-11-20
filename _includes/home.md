@@ -6,7 +6,7 @@ I am currently investigating solutions for decentralized control of Big Data pro
 in the Fog.
 
 Here you can find a list of [my publications]({{ site.baseurl }}/publications.html)
-and my [CV]({{ site.baseurl }}assets/CV.pdf).
+and my [CV]({{ site.baseurl }}/assets/cv.pdf).
 
 
 &nbsp;
@@ -18,7 +18,7 @@ Gabriele Russo Russo<br/>
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
 Università di Roma "Tor Vergata"<br/>
 Via del Politecnico 1, 00133 Roma, Italy<br/>
-**e-mail goes here**
+![](images/email_addr.png)
 
 
  
