@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications.html
 ---
 
-- G. Russo Russo, "owards Decentralized Auto-Scaling Policies for Data Stream Processing
+- G. Russo Russo, "Towards Decentralized Auto-Scaling Policies for Data Stream Processing
 Applications", *Proc. of 10th ZEUS Workshop (ZEUS 2018)*, Dresden, Germany, Feb. 2018. 
 - V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo, "Auto-scaling in Data Stream
 Processing: a Model Based Reinforcement Learning Approach", *Proc. of InfQ 2017 - New
