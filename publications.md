@@ -4,10 +4,19 @@ title: Publications
 permalink: /publications.html
 ---
 ### 2018 ###
+G. Russo Russo, M. Nardelli, V. Cardellini, F. Lo Presti<br>
+**Multi-Level Elasticity for Wide-Area Data Streaming Systems: A Reinforcement Learning Approach** \[[doi](http://dx.doi.org/10.3390/a11090134)\]<br>
+In *Algorithms*, vol. 11(9).
+
+M. Nardelli, G. Russo Russo, V. Cardellini, F. Lo Presti<br>
+**A Multi-level Elasticity Framework for Distributed Data Stream
+Processing**<br>
+In *International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2018), in conjunction with Euro-Par 2018*, Turin, Italy, August 2018. <br>
+Published in Proceedings of Euro-Par 2018: Parallel Processing Workshops. To appear.
 
 V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo<br>
 **Decentralized self-adaptation for elastic Data Stream Processing** \[[doi](https://doi.org/10.1016/j.future.2018.05.025)\]<br>
-In *Future Generation Computer Systems*, accepted for publication in 2018.
+In *Future Generation Computer Systems*, vol. 87, pp. 171–185. 
 
 G. Russo Russo<br>
 **Towards Decentralized Auto-Scaling Policies for Data Stream Processing Applications**
@@ -24,14 +33,13 @@ V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo<br>
 **Auto-scaling in Data Stream Processing: a Model Based Reinforcement Learning Approach**
 \[[doi](https://doi.org/10.1007/978-3-319-91632-3_8)\]
 \[[pdf](http://www.ce.uniroma2.it/publications/infq2017.pdf)\]<br>
-In *Proc. of InfQ 2017 - New Frontiers in Quantitative Methods in Informatics
-(in conjunction with ValueTools 2017)*,
-Communications in Computer and Information Science Vol. 825, Springer, to appear in 2018.	
+In *Proc. of InfQ 2017 - New Frontiers in Quantitative Methods in Informatics*,
+Communications in Computer and Information Science, Vol. 825, Springer, 2018.
 
 
 V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo<br>
-**Towards hierarchical autonomous control for elastic data stream processing in the fog**\[[doi](http://dx.doi.org/10.1007/978-3-319-75178-8_9)\]<br>
-*International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2017)* (in conjunction with Euro-Par 2017), Santiago de Compostela, Spain, August 2017. <br>
-Published in *Euro-Par 2017: Parallel Processing Workshops*, Lecture Notes in Computer Science Vol. 10659, Springer, pp. 106-117, February 2018.
+**Towards hierarchical autonomous control for elastic data stream processing in the fog** \[[doi](http://dx.doi.org/10.1007/978-3-319-75178-8_9)\]<br>
+*International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2017)*, Santiago de Compostela, Spain, August 2017. <br>
+Published in *Euro-Par 2017: Parallel Processing Workshops*, Lecture Notes in Computer Science Vol. 10659, Springer, pp. 106-117, 2018.
 
 <br>
