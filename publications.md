@@ -12,7 +12,7 @@ M. Nardelli, G. Russo Russo, V. Cardellini, F. Lo Presti<br>
 **A Multi-level Elasticity Framework for Distributed Data Stream
 Processing**<br>
 In *International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2018), in conjunction with Euro-Par 2018*, Turin, Italy, August 2018. <br>
-Published in Proceedings of Euro-Par 2018: Parallel Processing Workshops. To appear.
+Published in *Euro-Par 2018: Parallel Processing Workshops*. To appear.
 
 V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo<br>
 **Decentralized self-adaptation for elastic Data Stream Processing** \[[doi](https://doi.org/10.1016/j.future.2018.05.025)\]<br>
