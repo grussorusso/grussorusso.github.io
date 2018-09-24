@@ -59,9 +59,11 @@ $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
 $border-color: $lighter-gray !default;
-$masthead-border-color: $border-color !default;
+$masthead-bottom-border-color: $border-color !default;
+$masthead-top-border-color: #4183C4 !default;
+$masthead-background-color: #eee !default;
 $form-background-color: $lighter-gray !default;
-$footer-background-color: $lighter-gray !default;
+$footer-background-color: $masthead-top-border-color !default;
 
 $primary-color: #7a8288 !default;
 $success-color: #62c462 !default;

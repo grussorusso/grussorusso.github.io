@@ -4,12 +4,15 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $masthead-border-color;
+  border-bottom: 1px solid $masthead-bottom-border-color;
+  border-top: 4px solid $masthead-top-border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+
+  background: $masthead-background-color;
 
   &__inner-wrap {
     @include clearfix;
