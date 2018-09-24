@@ -1,0 +1,44 @@
+- year: 2018
+  papers:
+    - authors: "G. Russo Russo, M. Nardelli, V. Cardellini, F. Lo Presti"
+      title: "Multi-Level Elasticity for Wide-Area Data Streaming Systems: A Reinforcement Learning Approach"
+      link_title: "doi"
+      link: "http://dx.doi.org/10.3390/a11090134"
+      info: "In *Algorithms*, vol. 11(9)."
+    - authors: "M. Nardelli, G. Russo Russo, V. Cardellini, F. Lo Presti"
+      title: "A Multi-level Elasticity Framework for Distributed Data Stream Processing"
+      info: "In *International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2018), in conjunction with Euro-Par 2018*, Turin, Italy, August 2018. <br> Published in *Euro-Par 2018: Parallel Processing Workshops*. To appear."
+
+    - title: "Decentralized self-adaptation for elastic Data Stream Processing"
+      authors: "V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo"
+      info: "In *Future Generation Computer Systems*, vol. 87, pp. 171–185."
+      link: "https://doi.org/10.1016/j.future.2018.05.025"
+      link_title: "doi"
+
+    - title: "Towards Decentralized Auto-Scaling Policies for Data Stream Processing Applications"
+      authors: "G. Russo Russo"
+      info: "In *Proc. of 10th ZEUS Workshop (ZEUS 2018)*, Dresden, Germany, February 2018. CEUR-WS.org/Vol-2072."
+      pdf: "http://ceur-ws.org/Vol-2072/paper8.pdf"
+
+    - title: "Optimal operator deployment and replication for elastic distributed data stream processing"
+      authors: "V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo"
+      info: "In *Concurrency Computat: Pract Exper.*, Vol. 30, No. 9, May 2018."
+      link: "https://doi.org/10.1002/cpe.4334"
+      link_title: "doi"
+
+- year: 2017
+  papers:
+    - title: "Auto-scaling in Data Stream Processing: a Model Based Reinforcement Learning Approach"
+      authors: "V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo"
+      info: "In *Proc. of InfQ 2017 - New Frontiers in Quantitative Methods in Informatics*, Communications in Computer and Information Science, Vol. 825, Springer, 2018."
+      link: "https://doi.org/10.1007/978-3-319-91632-3_8"
+      link_title: "doi"
+      pdf: "http://www.ce.uniroma2.it/publications/infq2017.pdf"
+    - title: "Towards hierarchical autonomous control for elastic data stream processing in the fog"
+      authors: "V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo"
+      info: "*International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2017)*, Santiago de Compostela, Spain, August 2017. <br> Published in *Euro-Par 2017: Parallel Processing Workshops*, Lecture Notes in Computer Science Vol. 10659, Springer, pp. 106-117, 2018."
+      link: "http://dx.doi.org/10.1007/978-3-319-75178-8_9"
+      link_title: "doi"
+      
+
+

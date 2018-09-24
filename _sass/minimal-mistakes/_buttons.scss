@@ -95,4 +95,9 @@
   &--small {
     font-size: $type-size-7;
   }
+
+  &--verysmall {
+    font-size: $type-size-7;
+    padding: 0.13em 0.35em;
+  }
 }
