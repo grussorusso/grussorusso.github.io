@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: home
+author_profile: true
 ---
 
-{% include home.md %}
+{% include home-content.md %}
