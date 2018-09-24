@@ -1,12 +1,13 @@
-I am a Computer Science PhD student at the 
+I am a first-year PhD student in *Computer Science* at the 
 [University of Rome Tor Vergata](http://web.uniroma2.it), in Italy.
 
-My research interests span the area of Distributed Systems with enphasis on performance optimization.
-I am currently investigating solutions for decentralized control of Big Data processing systems
+My research interests span the area of Distributed Systems with emphasis on performance optimization.
+I am currently investigating decentralized solutions for controlling the
+deployment and the execution of Big Data processing systems
 in geographically distributed environments.
 
-You can find here a list of [publications]({{ site.baseurl }}/publications.html)
-and my [CV]({{ site.baseurl }}/assets/cv.pdf).
+You can find here a list of [publications]({{ site.baseurl
+		}}/publications.html).
 
 &nbsp;
 
@@ -19,27 +20,4 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 *Room:* D1-19 (Ingegneria dell'Informazione)<br/>
 *E-mail:* ![]({{ site.baseurl }}/assets/images/email_addr.png)
 
-
- 
- 
-&nbsp;
-
-
-
-<a name ="bio"></a>
-## Biography ##
-**Since November 2017**: PhD student in Computer Science, Control and
-Geoinformation at University of Rome Tor Vergata.
-
-**April 2017**: *Laurea Magistrale* (Master's degree) *cum laude* in Computer 
-Engineering at University of Rome Tor Vergata. Thesis: ``Optimal Deployment
-and Run-Time Reconfiguration for Elastic Data Stream Processing''. Advisors: Prof.
-Valeria Cardellini and Prof. Francesco Lo Presti.
-
-**October 2014**: *Laurea* (Bachelor's degree) *cum laude* in Computer
-Engineering at University of Rome Tor Vergata. Thesis: ``Analysis and Implementation of Energy-Aware Routing Algorithms for Ad-Hoc Wireless
-Networks''. Advisor: Prof.
-Francesco Lo Presti.
-
-&nbsp;
 

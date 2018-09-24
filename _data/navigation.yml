@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: /index.html
+  - title: "CV"
+    url: /cv.html
   - title: "Publications"
     url: /publications.html
     #- title: "Quick-Start Guide"
     #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
