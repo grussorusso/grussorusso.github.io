@@ -17,7 +17,6 @@ You can find here a list of [publications]({{ site.baseurl
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
 Università di Roma "Tor Vergata"<br/>
 Via del Politecnico 1, 00133 Roma, Italy<br/>
-*Room:* D1-19 (Ingegneria dell'Informazione)<br/>
-*E-mail:* ![]({{ site.baseurl }}/assets/images/email_addr.png)
+![]({{ site.baseurl }}/assets/images/email_addr.png)
 
 
