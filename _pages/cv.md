@@ -6,7 +6,7 @@ title: Curriculum Vitae
 permalink: /cv.html
 ---
 
-My full CV can be downloaded [here]().
+My detailed CV can be downloaded [here]({{ site.baseurl }}/assets/cv.pdf).
 {: .notice--info}
 
 ## Education ##
@@ -37,13 +37,10 @@ algorithms* in Heidelberg
 -->
 
 ## Teaching ##
-**2018-2019**: teaching assistant for the *Computer Architectures* course
+**A.Y. 2018-2019**: teaching assistant for the *Computer Architecture* course
 taught by Prof. Valeria Cardellini and Prof. Francesco Lo Presti at University of Rome Tor Vergata.
 
-**2017-2018**: teaching assistant for the *Computer Architectures* course
-taught by Prof. Salvatore Tucci at University of Rome Tor Vergata.
-
-**2016-2017**: teaching assistant for the *Computer Architectures* course
+**A.Y. 2016-17, 2017-2018**: teaching assistant for the *Computer Architecture* course
 taught by Prof. Salvatore Tucci at University of Rome Tor Vergata.
 
 ## Publications ##
