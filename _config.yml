@@ -115,7 +115,7 @@ author:
       url: "https://scholar.google.com/citations?user=rRiNfS0AAAAJ"
     - label: "ResearchGate"
       icon: "ai ai-researchgate"
-      url: "https://www.orcid.org/0000-0001-8233-4570"
+      url: "https://www.researchgate.net/profile/Gabriele_Russo_Russo"
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://www.orcid.org/0000-0001-8233-4570"
@@ -137,7 +137,7 @@ footer:
   links:
     - label: "ResearchGate"
       icon: "ai ai-researchgate"
-      url: "https://www.orcid.org/0000-0001-8233-4570"
+      url: "https://www.researchgate.net/profile/Gabriele_Russo_Russo"
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://www.orcid.org/0000-0001-8233-4570"
