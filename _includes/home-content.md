@@ -2,8 +2,10 @@ I am a second-year PhD student in *Computer Science* at the
 [University of Rome Tor Vergata](http://web.uniroma2.it), in Italy.
 
 My research interests span the area of Distributed Systems with emphasis on performance optimization.
-I am currently investigating decentralized solutions 
-self-adaptive Big Data processing systems in geographically distributed environments.
+I am currently investigating decentralized solutions for
+self-adaptive data processing systems deployed in geographically distributed and heterogeneous environments (e.g., Fog/Edge).
+
+My CV can be downloaded [here]({{ site.baseurl }}/assets/cv.pdf).
 
 
 <a name ="contact"></a>

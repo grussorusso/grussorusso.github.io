@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: /index.html
-  - title: "CV"
-    url: /cv.html
   - title: "Publications"
     url: /publications.html
+    #  - title: "CV"
+    #    url: /cv.html
     #- title: "Quick-Start Guide"
     #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
