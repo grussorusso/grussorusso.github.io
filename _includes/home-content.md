@@ -7,6 +7,11 @@ self-adaptive data processing systems deployed in geographically distributed and
 
 My CV can be downloaded [here]({{ site.baseurl }}/assets/cv.pdf).
 
+**News**<br/>
+I am one of the 200 young researchers selected for attending the 7th **Heidelberg Laureate Forum**
+in September!
+{: .notice--danger}
+
 
 <a name ="contact"></a>
 ## Contact information
@@ -16,8 +21,8 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 ![]({{ site.baseurl }}/assets/images/email_addr.png)
 
 ## Latest publications
-{% for y in site.data.publications limit: 1 %}
-  {% for paper in y.papers limit: 3 %}
+{% for y in site.data.publications limit: 2 %}
+  {% for paper in y.papers limit: 2 %}
 {{ paper.authors }}<br/>
 **{{paper.title}}**&nbsp;{% if paper.link %}\[[{{ paper.link_title }}]({{ paper.link }})\]{% endif %}{% if paper.pdf %}&nbsp;[\[pdf]({{ paper.pdf }})\]{% endif %}<br/>
 <span class="publications-info">{{paper.info}}</span>

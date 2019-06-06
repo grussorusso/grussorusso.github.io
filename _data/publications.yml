@@ -1,3 +1,10 @@
+- year: 2019
+  papers:
+    - authors: "G. Russo Russo, V. Cardellini, F. Lo Presti"
+      title: "Reinforcement learning based policies for elastic stream processing on heterogeneous resources"
+      #link_title: "doi"
+      #link: "http://dx.doi.org/10.3390/a11090134"
+      info: "In *Proceedings of the 13th ACM International Conference on Distributed and Event-based Systems (DEBS 2019)*, Darmstadt, Germany, 24-28 June 2019."
 - year: 2018
   papers:
     - authors: "G. Russo Russo, M. Nardelli, V. Cardellini, F. Lo Presti"
@@ -7,7 +14,7 @@
       info: "In *Algorithms*, vol. 11(9)."
     - authors: "M. Nardelli, G. Russo Russo, V. Cardellini, F. Lo Presti"
       title: "A Multi-level Elasticity Framework for Distributed Data Stream Processing"
-      info: "In *International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2018), in conjunction with Euro-Par 2018*, Turin, Italy, August 2018. <br> Published in *Euro-Par 2018: Parallel Processing Workshops*. To appear."
+      info: "In *International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2018), in conjunction with Euro-Par 2018*, Turin, Italy, August 2018. <br> Published in Euro-Par 2018: Parallel Processing Workshops, Lecture Notes in Computer Science Vol. 11339, Springer, pp. 53-64, March 2019."
 
     - title: "Decentralized self-adaptation for elastic Data Stream Processing"
       authors: "V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo"
