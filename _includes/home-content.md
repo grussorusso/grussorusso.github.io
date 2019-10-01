@@ -7,11 +7,6 @@ self-adaptive data processing systems deployed in geographically distributed and
 
 My CV can be downloaded [here]({{ site.baseurl }}/assets/cv.pdf).
 
-**News**<br/>
-I am one of the 200 young researchers selected for attending the 7th **Heidelberg Laureate Forum**
-in September!
-{: .notice--danger}
-
 
 <a name ="contact"></a>
 ## Contact information
