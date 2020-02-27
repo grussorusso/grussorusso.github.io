@@ -1,4 +1,4 @@
-I am a second-year PhD student in *Computer Science* at the 
+I am a third-year PhD student in *Computer Science* at the 
 [University of Rome Tor Vergata](http://web.uniroma2.it), in Italy.
 
 My research interests span the area of Distributed Systems with emphasis on performance optimization.
