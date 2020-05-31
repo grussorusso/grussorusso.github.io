@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Gabriele Russo Russo"
-  avatar           : "/assets/images/me.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in Computer Science, University of Rome Tor Vergata"
+  avatar           : "/assets/images/me.jpg"
+  bio              : ""
   location         : 
   email            :
   links:
