@@ -5,16 +5,21 @@ My research interests span the area of Distributed Systems with emphasis on perf
 I am currently investigating decentralized solutions for
 self-adaptive data processing systems deployed in geographically distributed and heterogeneous environments (e.g., Fog/Edge).
 
-My CV can be downloaded [here]({{ site.baseurl }}/assets/cv.pdf).
+Here is my [CV]({{ site.baseurl }}/assets/cv.pdf).
 
+<hr class="sectionbar"/>
 <a name ="contact"></a>
-## Contact information
+<h2 class="homesection">Contact information</h2>
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
 Università di Roma "Tor Vergata"<br/>
 Via del Politecnico 1, 00133 Roma, Italy<br/>
+&#114;usso.&#114;usso (&#97;&#116;) ing.uniroma2.it
+<!--
 ![]({{ site.baseurl }}/assets/images/email_addr.png)
+-->
 
-## Latest publications
+<hr class="sectionbar"/>
+<h2 class="homesection">Recent publications</h2>
 {% for y in site.data.publications limit: 2 %}
   {% for paper in y.papers limit: 2 %}
 {{ paper.authors }}<br/>
