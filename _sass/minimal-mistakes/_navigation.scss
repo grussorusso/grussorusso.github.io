@@ -196,6 +196,10 @@
 
     &.site-title {
       margin-left: 0;
+      display: none;
+      @include breakpoint($large) {
+	      display: block;
+      }
     }
   }
 

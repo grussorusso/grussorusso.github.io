@@ -139,7 +139,7 @@
 
 .author__content {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
@@ -149,6 +149,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    vertical-align: top;
   }
 
   a {
