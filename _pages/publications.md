@@ -12,11 +12,10 @@ permalink: /publications.html
 {{ paper.authors }}<br/>
 **{{paper.title}}**&nbsp;{% if paper.link %}\[[{{ paper.link_title }}]({{ paper.link }})\]{% endif %}{% if paper.pdf %}&nbsp;[\[pdf]({{ paper.pdf }})\]{% endif %}<br/>
 <span class="publications-info">{{paper.info}}</span><br/>
-<!--{% if paper.link or paper.pdf %}<br/>{% endif %}-->
+{% if paper.link %}[{{ paper.link_title }}]({{ paper.link }}){: .btn .btn--verysmall .btn--inverse} {% endif %}{% if paper.pdf %} [pdf]({{ paper.pdf }}){: .btn .btn--verysmall .btn--danger} {% endif %}<br/>
   {% endfor %}
 {% endfor %}
 
 
-<!--{% if paper.link %}[{{ paper.link_title }}]({{ paper.link }}){: .btn .btn--verysmall .btn--info} {% endif %}{% if paper.pdf %} [pdf]({{ paper.pdf }}){: .btn .btn--verysmall .btn--danger} {% endif %}**{{paper.title}}**<br/>-->
 
 <br>
