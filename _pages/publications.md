@@ -6,17 +6,19 @@ title: Publications
 permalink: /publications.html
 ---
 
-{% for y in site.data.publications %}
-  <h2>{{ y.year }}</h2>
-  {% for paper in y.papers %}
-{{ paper.authors }}<br/>
-**{{paper.title}}**&nbsp;{% if paper.link %}\[[{{ paper.link_title }}]({{ paper.link }})\]{% endif %}{% if paper.pdf %}&nbsp;[\[pdf]({{ paper.pdf }})\]{% endif %}<br/>
-<span class="publications-info">{{paper.info}}</span><br/>
-<!--{% if paper.link or paper.pdf %}<br/>{% endif %}-->
-  {% endfor %}
+{% assign years = "2019,2018,2017" | split: "," %}
+
+{% for year in years %}
+<h2>{{ year }}</h2>
+{% for paper in site.publications %}
+{% if year contains paper.year %}
+<span class="publist-authors">{{ paper.authors }}</span><br/>
+<span class="publist-title">{{ paper.title }}</span><br/>
+<span class="publist-info">{{ paper.info }}</span><br/>
+[abstract]({{ site.baseurl}}{{ paper.url }}){: .btn .btn--verysmall .btn--inverse} {% if paper.doi %} [doi]({{ paper.doi }}){: .btn .btn--verysmall .btn--inverse} {% endif %} {% if paper.pdf %} [pdf]({{ paper.pdf }}){: .btn .btn--verysmall .btn--info} {% endif %}
+{% endif %}
+{% endfor %}
 {% endfor %}
 
-
-<!--{% if paper.link %}[{{ paper.link_title }}]({{ paper.link }}){: .btn .btn--verysmall .btn--info} {% endif %}{% if paper.pdf %} [pdf]({{ paper.pdf }}){: .btn .btn--verysmall .btn--danger} {% endif %}**{{paper.title}}**<br/>-->
 
 <br>
