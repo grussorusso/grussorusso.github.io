@@ -2,7 +2,7 @@
 title: Optimal operator deployment and replication for elastic distributed data stream processing
 authors: V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo
 year: 2018
-info: "Concurrency Computat: Pract Exper., Vol. 30, No. 9, May 2018"
+info: "Concurrency and Computation: Practice &amp; Experience, Vol. 30, No. 9, May 2018"
 type: Journal
 selected: true
 doi: "https://doi.org/10.1002/cpe.4334"

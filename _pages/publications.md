@@ -15,9 +15,7 @@ permalink: /publications.html
 <span class="publist-authors">{{ paper.authors }}</span><br/>
 <span class="publist-title">{{ paper.title }}</span><br/>
 <span class="publist-info">{{ paper.info }}</span><br/>
-<a class="btn btn--verysmall btn--inverse" href="{{ site.baseurl }}{{ paper.url }}">abstract</a>	
-{% if paper.doi %} <a class="btn btn--verysmall btn--inverse" href="{{ paper.doi }}">doi</a>	{% endif %}
-{% if paper.pdf %} <a class="btn btn--verysmall btn--info" href="{{ paper.pdf }}">pdf</a>	{% endif %}
+[abstract]({{ site.baseurl}}{{ paper.url }}){: .btn .btn--verysmall .btn--inverse} {% if paper.doi %} [doi]({{ paper.doi }}){: .btn .btn--verysmall .btn--inverse} {% endif %} {% if paper.pdf %} [pdf]({{ paper.pdf }}){: .btn .btn--verysmall .btn--info} {% endif %}
 {% endif %}
 {% endfor %}
 {% endfor %}

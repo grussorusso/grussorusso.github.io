@@ -19,13 +19,14 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 -->
 
 <hr class="sectionbar"/>
-<h2 class="homesection">Recent publications</h2>
-{% for y in site.data.publications limit: 2 %}
-  {% for paper in y.papers limit: 2 %}
-{{ paper.authors }}<br/>
-**{{paper.title}}**&nbsp;{% if paper.link %}\[[{{ paper.link_title }}]({{ paper.link }})\]{% endif %}{% if paper.pdf %}&nbsp;[\[pdf]({{ paper.pdf }})\]{% endif %}<br/>
-<span class="publications-info">{{paper.info}}</span>
-  {% endfor %}
+<h2 class="homesection">Selected publications</h2>
+{% for paper in site.publications %}
+{% if paper.selected %}
+<span class="publist-authors">{{ paper.authors }}</span><br/>
+<span class="publist-title">{{ paper.title }}</span><br/>
+<span class="publist-info">{{ paper.info }}</span><br/>
+[abstract]({{ site.baseurl}}{{ paper.url }}){: .btn .btn--verysmall .btn--inverse} {% if paper.doi %} [doi]({{ paper.doi }}){: .btn .btn--verysmall .btn--inverse} {% endif %} {% if paper.pdf %} [pdf]({{ paper.pdf }}){: .btn .btn--verysmall .btn--info} {% endif %}
+{% endif %}
 {% endfor %}
 
 You can find [here]({{ site.baseurl }}/publications.html) a list of all my publications.
