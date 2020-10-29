@@ -6,7 +6,7 @@ title: Publications
 permalink: /publications.html
 ---
 
-{% assign years = "2019,2018,2017" | split: "," %}
+{% assign years = "2020,2019,2018,2017" | split: "," %}
 
 {% for year in years %}
 <h2>{{ year }}</h2>
