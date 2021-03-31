@@ -2,10 +2,10 @@
 title: "Towards a Security-aware Deployment of Data Streaming Applications in Fog Computing"
 authors: "G. Russo Russo, V. Cardellini, F. Lo Presti, M. Nardelli"
 info: "In Fog/Edge  Computing  for  Security,Privacy,  and  Applications, W. Chang and J. Wu (eds.)"
-#doi: "https://doi.org/10.1007/978-3-319-91632-3_8"
-year: 2020
+doi: "https://doi.org/10.1007/978-3-030-57328-7_14"
+year: 2021
 type: BookChapter
-selected: false
+selected: true
 layout: publication
 ---
 

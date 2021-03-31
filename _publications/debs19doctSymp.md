@@ -1,7 +1,7 @@
 ---
 authors: "G. Russo Russo"
 title: "Self-Adaptive Data Stream Processing in Geo-Distributed Computing Environments"
-info: "Proc. of 13th ACM International Conference on Distributed and Event-based Systems (DEBS 2019), Darmstadt, Germany, June 2019"
+info: "Proc. of DEBS 2019"
 doi: "https://doi.org/10.1145/3328905.3332304"
 year: 2019
 type: Conference

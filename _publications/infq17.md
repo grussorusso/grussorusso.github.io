@@ -1,7 +1,7 @@
 ---
 title: "Auto-scaling in Data Stream Processing: a Model Based Reinforcement Learning Approach"
 authors: "V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo"
-info: "Proc. of InfQ 2017 - New Frontiers in Quantitative Methods in Informatics, Communications in Computer and Information Science, Vol. 825, Springer, 2018."
+info: "InfQ 2017 - New Frontiers in Quantitative Methods in Informatics, Communications in Computer and Information Science, Vol. 825, Springer, 2018."
 doi: "https://doi.org/10.1007/978-3-319-91632-3_8"
 pdf: "http://www.ce.uniroma2.it/publications/infq2017.pdf"
 year: 2017
