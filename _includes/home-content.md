@@ -7,7 +7,7 @@ self-adaptive data processing systems deployed in geographically distributed and
 
 Here is my [CV]({{ site.baseurl }}/assets/cv.pdf).
 
-<hr class="sectionbar"/>
+<!--<hr class="sectionbar"/>-->
 <a name ="contact"></a>
 <h2 class="homesection">Contact information</h2>
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
@@ -18,8 +18,8 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 ![]({{ site.baseurl }}/assets/images/email_addr.png)
 -->
 
-<hr class="sectionbar"/>
-<h2 class="homesection">Selected publications</h2>
+<!--<hr class="sectionbar"/>-->
+<h2 class="homesection">Recent publications</h2>
 {% for paper in site.publications %}
 {% if paper.selected %}
 <span class="publist-authors">{{ paper.authors }}</span><br/>
