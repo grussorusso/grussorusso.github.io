@@ -116,9 +116,9 @@ author:
     - label: "Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=rRiNfS0AAAAJ"
-    - label: "ResearchGate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Gabriele_Russo_Russo"
+    - label: "DBLP"
+      icon: "ai ai-dblp"
+      url: "https://dblp.org/pid/214/1442.html"
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://www.orcid.org/0000-0001-8233-4570"
@@ -138,9 +138,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "ResearchGate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Gabriele_Russo_Russo"
+    - label: "DBLP"
+      icon: "ai ai-dblp"
+      url: "https://dblp.org/pid/214/1442.html"
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://www.orcid.org/0000-0001-8233-4570"

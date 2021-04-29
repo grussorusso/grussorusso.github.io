@@ -13,7 +13,7 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: "Noto Serif KR", Georgia, Times, serif !default;
+$serif: "Garamond", "Noto Serif KR", Georgia, Times, serif !default;
 $sans-serif: "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $sans-serif-alt: "Lato", "Montserrat", "Roboto", "Segoe UI", Arial, sans-serif !default;
@@ -138,11 +138,11 @@ $base0f: #ff5370 !default;
    Breakpoints
    ========================================================================== */
 
-$small: 600px !default;
-$medium: 768px !default;
-$medium-wide: 900px !default;
-$large: 1024px !default;
-$x-large: 1280px !default;
+$small: 550px !default;
+$medium: 600px !default;
+$medium-wide: 700px !default;
+$large: 750px !default;
+$x-large: 800px !default;
 
 /*
    Grid

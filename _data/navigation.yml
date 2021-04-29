@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /index.html
+  - title: "CV"
+    url: /assets/cv.pdf
   - title: "Publications"
     url: /publications.html
     #  - title: "CV"
