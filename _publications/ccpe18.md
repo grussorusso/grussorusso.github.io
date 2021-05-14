@@ -3,6 +3,7 @@ title: Optimal operator deployment and replication for elastic distributed data 
 authors: V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo
 year: 2018
 info: "Concurrency and Computation: Practice &amp; Experience, Vol. 30, No. 9, May 2018"
+pdf: "http://www.ce.uniroma2.it/publications/ccpe2018.pdf"
 type: Journal
 selected: false
 doi: "https://doi.org/10.1002/cpe.4334"

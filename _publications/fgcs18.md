@@ -3,6 +3,7 @@ title: "Decentralized self-adaptation for elastic Data Stream Processing"
 authors: "V. Cardellini, F. Lo Presti, M. Nardelli, G. Russo Russo"
 info: "Future Generation Computer Systems, vol. 87, pp. 171–185"
 doi: "https://doi.org/10.1016/j.future.2018.05.025"
+pdf: "http://www.ce.uniroma2.it/publications/fgcs2018_dsp.pdf"
 year: 2018
 type: Journal
 selected: false

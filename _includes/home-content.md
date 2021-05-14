@@ -3,12 +3,13 @@
 <img src="{{ site.baseurl}}/assets/images/me.jpg" alt="Gabriele Russo Russo" itemprop="image">
 </div>
 
-I am a Research Associate and PhD candidate at the 
-University of Rome Tor Vergata, in Italy. 
+I am a Research Associate at the 
+University of Rome Tor Vergata, in Italy, where I received my PhD degree in
+May 2021.
 
 My research interests span the area of distributed computing systems with emphasis on
 performance optimization and run-time self-adaptation.
-As a PhD student, I have investigated auto-scaling solutions for data stream processing 
+As a PhD student, I investigated auto-scaling solutions for data stream processing 
 applications, combining Reinforcement Learning techniques and traditional
 performance modeling tools.
 
@@ -29,9 +30,10 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 
 <h2 class="homesection">News</h2>
 
-- I am going to present 
-*MEAD: Model-based Vertical Auto-Scaling for Data Stream Processing*
-at **[CCGRID 2021](http://cloudbus.org/ccgrid2021/mainpage.html)**.
+- I have
+  presented *MEAD: Model-based Vertical Auto-Scaling for Data Stream Processing*
+at [CCGRID 2021](http://cloudbus.org/ccgrid2021/mainpage.html). [Video](https://www.youtube.com/watch?v=R66RqVWIMtE&list=PLQV187VBTU9eXuko4_hmFNXo0V0VwWYF3&index=3){: .btn .btn--verysmall .btn--success}
+
 - New book chapter [Towards a Security-aware Deployment of Data Streaming
   Applications in Fog Computing](https://doi.org/10.1007/978-3-030-57328-7_14)
 
