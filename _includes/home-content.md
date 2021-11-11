@@ -30,12 +30,14 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 
 <h2 class="homesection">News</h2>
 
+- **Tutorial at PERFORMANCE '21**: Reinforcement learning for run-time performance management in the Cloud/Edge [Video](https://www.youtube.com/watch?v=T1-MaosV7xA){: .btn .btn--verysmall .btn--success}
+
+
+
 - I have
   presented *MEAD: Model-based Vertical Auto-Scaling for Data Stream Processing*
 at [CCGRID 2021](http://cloudbus.org/ccgrid2021/mainpage.html). [Video](https://www.youtube.com/watch?v=R66RqVWIMtE&list=PLQV187VBTU9eXuko4_hmFNXo0V0VwWYF3&index=3){: .btn .btn--verysmall .btn--success}
 
-- New book chapter [Towards a Security-aware Deployment of Data Streaming
-  Applications in Fog Computing](https://doi.org/10.1007/978-3-030-57328-7_14)
 
 
 <!--<hr class="sectionbar"/>-->
