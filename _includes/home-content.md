@@ -11,11 +11,14 @@ My research interests span the area of distributed computing systems with emphas
 performance optimization and run-time self-adaptation.
 As a PhD student, I investigated auto-scaling solutions for data stream processing 
 applications, combining Reinforcement Learning techniques and traditional
-performance modeling tools.
+performance modeling tools. 
 
 Here is my [CV]({{ site.baseurl }}/assets/cv.pdf) and 
 a list of [publications]({{ site.baseurl }}/publications.html) (also
 available in [DBLP](https://dblp.org/pid/214/1442.html)).
+
+I am currently a member of the *Review Board* of [IEEE
+TPDS](https://www.computer.org/csdl/journal/td/about/107377?title=Review%20Board&periodical=IEEE%20Transactions%20on%20Parallel%20%26%20Distributed%20Systems).
 
 <!--<hr class="sectionbar"/>-->
 <a name ="contact"></a>
