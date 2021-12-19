@@ -33,8 +33,9 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 
 <h2 class="homesection">News</h2>
 
-- **Tutorial at PERFORMANCE '21**: Reinforcement learning for run-time performance management in the Cloud/Edge [Video](https://www.youtube.com/watch?v=T1-MaosV7xA){: .btn .btn--verysmall .btn--success}
+- I am in the Program Committee of [ACM DEBS 2022](https://2022.debs.org/index.html)
 
+- **Tutorial at PERFORMANCE '21**: Reinforcement learning for run-time performance management in the Cloud/Edge [Video](https://www.youtube.com/watch?v=T1-MaosV7xA){: .btn .btn--verysmall .btn--success}
 
 
 - I have
