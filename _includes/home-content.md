@@ -33,14 +33,12 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 
 <h2 class="homesection">News</h2>
 
+- [Run-Time Adaptation of Data Stream Processing Systems: The State of the
+  Art](https://art.torvergata.it/retrieve/handle/2108/288667/577062/csur2022.pdf) has been accepted for publication by ACM Computing Surveys
+
 - I am in the Program Committee of [ACM DEBS 2022](https://2022.debs.org/index.html)
 
 - **Tutorial at PERFORMANCE '21**: Reinforcement learning for run-time performance management in the Cloud/Edge [Video](https://www.youtube.com/watch?v=T1-MaosV7xA){: .btn .btn--verysmall .btn--success}
-
-
-- I have
-  presented *MEAD: Model-based Vertical Auto-Scaling for Data Stream Processing*
-at [CCGRID 2021](http://cloudbus.org/ccgrid2021/mainpage.html). [Video](https://www.youtube.com/watch?v=R66RqVWIMtE&list=PLQV187VBTU9eXuko4_hmFNXo0V0VwWYF3&index=3){: .btn .btn--verysmall .btn--success}
 
 
 

@@ -3,6 +3,7 @@ authors: "G. Russo Russo, V. Cardellini, G. Casale, F. Lo Presti"
 title: "MEAD: Model-based Vertical Auto-Scaling for Data Stream Processing"
 info: "Proc. of IEEE/ACM CCGRID '21"
 doi: "https://doi.org/10.1109/CCGrid51090.2021.00041"
+pdf: "http://www.ce.uniroma2.it/publications/ccgrid2021.pdf"
 year: 2021
 type: Conference
 selected: true
