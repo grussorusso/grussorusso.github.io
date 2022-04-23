@@ -1,12 +1,13 @@
 ---
 ---
-<div class="home_author__avatar">
-<img src="/images/me.jpg" alt="Gabriele Russo Russo" itemprop="image">
-</div>
 
 I am a Research Associate at the 
 University of Rome Tor Vergata, in Italy, where I received my PhD degree in
 May 2021.
+
+<div class="home_author__avatar">
+<img src="/images/me.jpg" alt="Gabriele Russo Russo" itemprop="image">
+</div>
 
 My research interests span the area of distributed computing systems with emphasis on
 performance optimization and run-time self-adaptation.

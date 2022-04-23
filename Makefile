@@ -1,6 +1,4 @@
-BUILDDIR=_site
-
 all:
-	hugo -b "http://127.0.0.1/" -d $(BUILDDIR) --cleanDestinationDir
+	hugo -b "http://www.ce.uniroma2.it/~russorusso/" --cleanDestinationDir
 serve:
-	hugo server --port 4000 -D
+	hugo server --port 4000 -Dv --disableFastRender
