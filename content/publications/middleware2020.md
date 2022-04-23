@@ -4,7 +4,7 @@ title: "Model-based Auto-Scaling of Distributed Data Stream Processing Applicati
 info: "Proc. of Middleware '20 Doctoral Symposium"
 doi: "https://doi.org/10.1145/3429351.3431741"
 year: 2020
-type: Conference
+publication_type: Conference
 selected: false
 layout: publication
 ---

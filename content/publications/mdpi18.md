@@ -5,7 +5,7 @@ doi: "http://dx.doi.org/10.3390/a11090134"
 info: "Algorithms, vol. 11(9)."
 pdf: "https://www.mdpi.com/1999-4893/11/9/134/pdf"
 year: 2018
-type: Journal
+publication_type: Journal
 selected: false
 layout: publication
 ---

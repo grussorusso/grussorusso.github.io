@@ -4,7 +4,7 @@ authors: G. Russo Russo
 info: "Proc. of 10th ZEUS Workshop (ZEUS 2018), Dresden, Germany, February 2018."
 pdf: "http://ceur-ws.org/Vol-2072/paper8.pdf"
 year: 2018
-type: Conference
+publication_type: Conference
 selected: false
 layout: publication
 ---

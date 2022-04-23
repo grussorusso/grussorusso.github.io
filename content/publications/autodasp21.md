@@ -4,7 +4,7 @@ title: "Elastic Pulsar Functions for Distributed Stream Processing"
 info: "ACM/SPEC ICPE 2021 Companion Volume"
 doi: "https://doi.org/10.1145/3447545.3451901"
 year: 2021
-type: Conference
+publication_type: Conference
 selected: false
 layout: publication
 ---

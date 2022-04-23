@@ -1,13 +1,16 @@
 ---
+draft: false
 ---
 
-I am a Research Associate at the 
-University of Rome Tor Vergata, in Italy, where I received my PhD degree in
-May 2021.
-
-<div class="home_author__avatar">
+<div class="avatar">
 <img src="/images/me.jpg" alt="Gabriele Russo Russo" itemprop="image">
 </div>
+
+I am a Research Associate at the *Department of Civil Engineering and Computer
+Science Engineering* of the
+[University of Rome Tor Vergata](https://web.uniroma2.it/en), where I received my PhD degree in
+May 2021.
+
 
 My research interests span the area of distributed computing systems with emphasis on
 performance optimization and run-time self-adaptation.
@@ -16,7 +19,7 @@ applications, combining Reinforcement Learning techniques and traditional
 performance modeling tools. 
 
 Here is my [CV](/cv.pdf) and 
-a list of [publications](/publications.html) (also
+a list of [publications](/publications/) (also
 available in [DBLP](https://dblp.org/pid/214/1442.html)).
 
 I am currently a member of the *Review Board* of [IEEE
@@ -35,17 +38,20 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 
 <h2 class="homesection">News</h2>
 
-- [Run-Time Adaptation of Data Stream Processing Systems: The State of the
-  Art](https://art.torvergata.it/retrieve/handle/2108/288667/577062/csur2022.pdf) has been accepted for publication by ACM Computing Surveys
+- *Mar 2022* &raquo; I presented *Towards QoS-Aware Function Composition Scheduling in Apache OpenWhisk*
+at the workshop [*LESS](https://starless.iit.cnr.it/)
 
-- I am in the Program Committee of [ACM DEBS 2022](https://2022.debs.org/index.html)
+- *Jan 2022* &raquo; [Run-Time Adaptation of Data Stream Processing Systems: The State of the
+  Art](https://art.torvergata.it/retrieve/handle/2108/288667/577062/csur2022.pdf) has been accepted for publication in ACM Computing Surveys
 
-- **Tutorial at PERFORMANCE '21**: Reinforcement learning for run-time performance management in the Cloud/Edge ([Video](https://www.youtube.com/watch?v=T1-MaosV7xA))
+- *Jan 2022* &raquo; I am in the Program Committee of [ACM DEBS 2022](https://2022.debs.org/index.html)
+
+- *Nov 2021* &raquo; Tutorial at PERFORMANCE '21: Reinforcement learning for run-time performance management in the Cloud/Edge ([Video](https://www.youtube.com/watch?v=T1-MaosV7xA))
 
 
 
-<!--<hr class="sectionbar"/>-->
-<h2 class="homesection">Recent publications</h2>
+<!--
+<h2 class="homesection">Selected publications</h2>
 {% for paper in site.publications %}
 {% if paper.selected %}
 <span class="publist-authors">{{ paper.authors }}</span><br/>
@@ -57,5 +63,6 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 
 You can find [here]({{ site.baseurl }}/publications.html) a list of all my publications.
 {: .notice--info}
+-->
 
 

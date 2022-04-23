@@ -5,7 +5,7 @@ info: "Future Generation Computer Systems, vol. 87, pp. 171–185"
 doi: "https://doi.org/10.1016/j.future.2018.05.025"
 pdf: "http://www.ce.uniroma2.it/publications/fgcs2018_dsp.pdf"
 year: 2018
-type: Journal
+publication_type: Journal
 selected: false
 layout: publication
 ---

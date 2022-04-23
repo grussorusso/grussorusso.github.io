@@ -5,7 +5,7 @@ info: "International Workshop on Autonomic Solutions for Parallel and Distribute
 doi: "http://dx.doi.org/10.1007/978-3-319-75178-8_9"
 pdf: http://www.ce.uniroma2.it/publications/autodasp2017.pdf
 year: 2017
-type: Conference
+publication_type: Conference
 selected: false
 layout: publication
 ---
@@ -21,7 +21,7 @@ workload conditions. At the higher level, a per-application centralized
 component works on a broader time scale; it oversees the application behavior
 and grants reconfigurations to control the application performance while
 limiting the negative effect of their enactment, i.e., application downtime. We
-have implemented the proposed solution in our distributed Storm prototype and
+have implemented the proposed solution in our distributed Storm protopublication_type and
 evaluated its behavior adopting simple policies. The experimental results are
 promising and show that, even with simple policies, it is possible to limit the
 number of reconfigurations while at the same time guaranteeing an adequate level

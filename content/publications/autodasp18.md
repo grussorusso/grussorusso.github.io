@@ -5,7 +5,7 @@ info: "International Workshop on Autonomic Solutions for Parallel and Distribute
 doi: "http://dx.doi.org/10.1007/978-3-030-10549-5_5"
 pdf: http://www.ce.uniroma2.it/publications/autodasp2018.pdf
 year: 2018
-type: Conference
+publication_type: Conference
 selected: false
 layout: publication
 ---

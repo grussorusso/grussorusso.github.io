@@ -5,7 +5,7 @@ info: "InfQ 2017 - New Frontiers in Quantitative Methods in Informatics, Communi
 doi: "https://doi.org/10.1007/978-3-319-91632-3_8"
 pdf: "http://www.ce.uniroma2.it/publications/infq2017.pdf"
 year: 2017
-type: Conference
+publication_type: Conference
 selected: false
 layout: publication
 ---

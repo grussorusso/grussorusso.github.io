@@ -4,7 +4,7 @@ title: "Self-Adaptive Data Stream Processing in Geo-Distributed Computing Enviro
 info: "Proc. of DEBS 2019"
 doi: "https://doi.org/10.1145/3328905.3332304"
 year: 2019
-type: Conference
+publication_type: Conference
 selected: false
 layout: publication
 ---

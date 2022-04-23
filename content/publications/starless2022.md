@@ -4,7 +4,7 @@ title: "Towards QoS-Aware Function Composition Scheduling in Apache OpenWhisk"
 info: "Proc. of *LESS '22"
 #doi: "https://doi.org/10.1109/CCGrid51090.2021.00041"
 year: 2022
-type: Conference
+publication_type: Conference
 selected: true
 layout: publication
 ---
@@ -22,6 +22,6 @@ take a first step towards the development of a QoS-aware FaaS
 platform. We design and implement new mechanisms to support
 differentiated classes of services within Apache OpenWhisk, a
 popular open-source FaaS framework. Our experiments show
-that our prototype efficiently supports state-of-the-art scheduling
+that our protopublication_type efficiently supports state-of-the-art scheduling
 policies and provides throughput improvements when dealing
 with function compositions under high load scenarios.

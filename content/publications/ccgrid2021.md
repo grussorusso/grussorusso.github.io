@@ -5,7 +5,7 @@ info: "Proc. of IEEE/ACM CCGRID '21"
 doi: "https://doi.org/10.1109/CCGrid51090.2021.00041"
 pdf: "http://www.ce.uniroma2.it/publications/ccgrid2021.pdf"
 year: 2021
-type: Conference
+publication_type: Conference
 selected: true
 layout: publication
 ---
