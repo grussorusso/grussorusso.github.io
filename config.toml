@@ -41,7 +41,7 @@ googleAnalytics = ""  # add your tracking id
     name = "CV"
     url = "/cv.pdf"
     # 'pre' and 'post' hooks are available
-    pre = '<i class="my-fa-icon fa-solid fa-file"></i>&nbsp;'
+	#pre = '<i class="my-fa-icon fa-regular fa-file-pdf"></i>&nbsp;'
     weight = 5
 
 [markup.goldmark.renderer]
