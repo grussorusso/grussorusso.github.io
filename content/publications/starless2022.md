@@ -2,7 +2,7 @@
 authors: "G. Russo Russo, A. Milani, V. Cardellini, S. Iannucci"
 title: "Towards QoS-Aware Function Composition Scheduling in Apache OpenWhisk"
 info: "Proc. of *LESS '22 (co-located with PerCom '22)"
-#doi: "https://doi.org/10.1109/CCGrid51090.2021.00041"
+doi: "https://ieeexplore.ieee.org/document/9767299"
 year: 2022
 publication_type: Conference
 layout: publication

@@ -38,8 +38,8 @@ Via del Politecnico 1, 00133 Roma, Italy<br/>
 
 <h2 class="homesection">News</h2>
 
-- *Mar 2022* &raquo; I presented *Towards QoS-Aware Function Composition Scheduling in Apache OpenWhisk*
-at the workshop [*LESS](https://starless.iit.cnr.it/)
+- *Mar 2022* &raquo; I presented [Towards QoS-Aware Function Composition Scheduling in Apache OpenWhisk](https://ieeexplore.ieee.org/document/9767299)
+at [*LESS 2022](https://starless.iit.cnr.it/)
 
 - *Jan 2022* &raquo; [Run-Time Adaptation of Data Stream Processing Systems: The State of the
   Art](https://art.torvergata.it/retrieve/handle/2108/288667/577062/csur2022.pdf) has been accepted for publication in ACM Computing Surveys
