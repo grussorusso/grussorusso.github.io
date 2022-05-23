@@ -9,7 +9,7 @@ title: Service
 ### Journal Reviewer ###
 I review manuscripts submitted to high-quality scientific journals in the field
 of distributed computing systems (e.g., IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE
-TCC, FGCS).
+TCC, ACM CSUR, FGCS, JPDC).
 
 ### Workshop TPC Chair ###
 
