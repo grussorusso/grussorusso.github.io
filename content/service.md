@@ -2,22 +2,17 @@
 title: Service
 ---
 
-### Journal Technical Review Board ###
+### Reviewer for Journals ###
 
-- [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td) (2021-present)
+-  Member of the *Technical Review Board* for [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td) (2021-2022)
 
-### Journal Reviewer ###
-I review manuscripts submitted to high-quality scientific journals in the field
-of distributed computing systems (e.g., IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE
-TCC, ACM CSUR, FGCS, JPDC).
+- I review manuscripts submitted to high-quality scientific journals in the field
+of distributed computing systems, including IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE
+TCC, ACM CSUR, FGCS, JPDC.
 
-### Workshop TPC Chair ###
+### Conference/Workshop Organization  ###
 
-- 4th International Workshop on Self-Protecting Systems ([SPS 2022](https://sites.google.com/view/sps22workshop)), co-located with ACSOS 2022
-	
-	+ **deadline for paper submission**: July 8th, 2022
-
-### TPC Member ###
-
-- [DEBS 2022](https://2022.debs.org/index.html)
-- (*shadow PC*) [EuroSys 2022](https://2022.eurosys.org/)
+- Publicity &amp; Social Media Co-Chair @ [ICPE 2023](https://icpe2023.spec.org/)
+- TPC Chair @ 4th International Workshop on Self-Protecting Systems ([SPS 2022](https://sites.google.com/view/sps22workshop))
+- TPC Member @ [DEBS 2022](https://2022.debs.org/index.html)
+- Shadow TPC Member @ [EuroSys 2022](https://2022.eurosys.org/)
