@@ -14,9 +14,11 @@ May 2021.
 
 My research interests span the area of distributed computing systems with emphasis on
 performance optimization and run-time self-adaptation.
-As a PhD student, I investigated auto-scaling solutions for data stream processing 
-applications, combining Reinforcement Learning techniques and traditional
-performance modeling tools. 
+My current research mainly revolves around:
+
+- Self-adaptive Data Stream Processing systems
+- QoS-aware Function-as-a-Service at the Edge
+- Workflow Scheduling in the Cloud
 
 Here is my [CV](/cv.pdf) and 
 a list of [publications](/publications/) (also
