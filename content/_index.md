@@ -35,7 +35,7 @@ Room: D1-19, Building: "Ingegneria dell'Informazione"<br/>
 
 <h2 class="homesection">News</h2>
 
-- *Dic 2022* &raquo; "Serverledge: Decentralized Function-as-a-Service for the Edge-Cloud Continuum" accepted at [IEEE PerCom '23](https://www.percom.org)!
+- *Dec 2022* &raquo; "Serverledge: Decentralized Function-as-a-Service for the Edge-Cloud Continuum" accepted at [IEEE PerCom '23](https://www.percom.org)!
 
 - *Mar 2022* &raquo; I presented [Towards QoS-Aware Function Composition Scheduling in Apache OpenWhisk](https://ieeexplore.ieee.org/document/9767299)
 at [*LESS 2022](https://starless.iit.cnr.it/)
