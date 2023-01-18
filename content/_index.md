@@ -6,9 +6,11 @@ draft: false
 <img src="/images/me.jpg" alt="Gabriele Russo Russo" itemprop="image">
 </div>
 
-I am a Research Associate at the *Department of Civil Engineering and Computer
+I am a Research Associate at the *Department of Engineering* of
+Roma Tre University.
+Previously, I was a Research Associate at the *Department of Civil Engineering and Computer
 Science Engineering* of the
-[University of Rome Tor Vergata](https://web.uniroma2.it/en), where I received my PhD degree in
+University of Rome Tor Vergata, where I received my PhD degree in
 May 2021.
 
 
@@ -16,18 +18,22 @@ My research interests span the area of distributed computing systems with emphas
 Quality-of-Service optimization and run-time self-adaptation.
 My current research mainly revolves around:
 
-- Self-adaptive Data Stream Processing systems
 - Function-as-a-Service in the Edge-Cloud Continuum
-- Workflow Scheduling in the Cloud
+- Performance optimization for Big Data processing systems
+- Workflow scheduling in the Cloud
+- Self-adaptive Data Stream Processing (DSP) systems
 
 
 <!--<hr class="sectionbar"/>-->
 <a name ="contact"></a>
 <h2 class="homesection">Contact information</h2>
+<!--
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
 Università di Roma "Tor Vergata"<br/>
 Via del Politecnico 1, 00133 Roma, Italy<br/>
 Room: D1-19, Building: "Ingegneria dell'Informazione"<br/>
+-->
+g&#114;usso&#114;usso (&#97;&#116;) uniroma3.it<br/>
 &#114;usso.&#114;usso (&#97;&#116;) ing.uniroma2.it
 <!--
 ![](/images/email_addr.png)
@@ -82,6 +88,7 @@ TCC, ACM CSUR, FGCS, JPDC.
 
 #### Conference/Workshop Organization  #####
 
+- TPC Member @ [ScalCom 2023](https://ieee-smart-world-congress.org/scalcom/)
 - Publicity &amp; Social Media Co-Chair @ [ICPE 2023](https://icpe2023.spec.org/)
 - TPC Chair @ 4th International Workshop on Self-Protecting Systems ([SPS 2022](https://sites.google.com/view/sps22workshop))
 - TPC Member @ [DEBS 2022](https://2022.debs.org/index.html)
