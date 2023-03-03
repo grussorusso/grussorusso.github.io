@@ -7,6 +7,7 @@ info: "Proc. of IEEE PerCom '23"
 year: 2023
 publication_type: Conference
 selected: true
+award: Artifact Certified; Results Certified
 layout: publication
 ---
 

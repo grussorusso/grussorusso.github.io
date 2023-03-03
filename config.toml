@@ -24,7 +24,7 @@ googleAnalytics = ""  # add your tracking id
     pageWidth = "810px"
     avatarSize = "95px"
     colorBlack = "#222222"
-    colorRed = "#0061cf"
+    colorMain = "#0061cf"
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "GitHub"

@@ -33,7 +33,11 @@ Università di Roma "Tor Vergata"<br/>
 Via del Politecnico 1, 00133 Roma, Italy<br/>
 Room: D1-19, Building: "Ingegneria dell'Informazione"<br/>
 -->
+
+*Feel free to contact me via e-mail at:*<br/>
 g&#114;usso&#114;usso (&#97;&#116;) uniroma3.it<br/>
+
+*or, especially for questions regarding my teaching at Roma2:* <br/>
 &#114;usso.&#114;usso (&#97;&#116;) ing.uniroma2.it
 <!--
 ![](/images/email_addr.png)
@@ -41,15 +45,15 @@ g&#114;usso&#114;usso (&#97;&#116;) uniroma3.it<br/>
 
 <h2 class="homesection">News</h2>
 
+- *Mar 2023* &raquo; "Serverless functions in the cloud-edge continuum: Challenges and opportunities" won the
+**Best paper award** in the Special Session on Compute Continuum at *Euromicro PDP '23*
+
 - *Dec 2022* &raquo; "Serverledge: Decentralized Function-as-a-Service for the Edge-Cloud Continuum" accepted at [IEEE PerCom '23](https://www.percom.org)!
 
-- *Mar 2022* &raquo; I presented [Towards QoS-Aware Function Composition Scheduling in Apache OpenWhisk](https://ieeexplore.ieee.org/document/9767299)
-at [*LESS 2022](https://starless.iit.cnr.it/)
 
 - *Jan 2022* &raquo; [Run-Time Adaptation of Data Stream Processing Systems: The State of the
   Art](https://art.torvergata.it/retrieve/handle/2108/288667/577062/csur2022.pdf) has been accepted for publication in ACM Computing Surveys
 
-- *Nov 2021* &raquo; Tutorial at PERFORMANCE '21: Reinforcement learning for run-time performance management in the Cloud/Edge ([Video](https://www.youtube.com/watch?v=T1-MaosV7xA))
 
 
 
