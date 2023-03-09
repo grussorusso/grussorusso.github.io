@@ -21,8 +21,8 @@ googleAnalytics = ""  # add your tracking id
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Lato, PT Sans, Open Sans, Helvetica"
     fontSize = "13pt"
-    pageWidth = "810px"
-    avatarSize = "95px"
+    pageWidth = "820px"
+    avatarSize = "100px"
     colorBlack = "#222222"
     colorMain = "#0061cf"
   [[params.socialIcons]]
