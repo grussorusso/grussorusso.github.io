@@ -16,13 +16,12 @@ May 2021.
 
 
 My research interests span the area of distributed computing systems with emphasis on
-Quality-of-Service optimization and run-time self-adaptation.
+performance optimization and run-time self-adaptation.
 My current research mainly revolves around:
 
 - Function-as-a-Service in the Edge-Cloud Continuum
-- Performance optimization for Big Data processing systems
+- Performance optimization of data-intensive applications
 - Workflow scheduling in the Cloud
-- Self-adaptive Data Stream Processing (DSP) systems
 
 
 <!--<hr class="sectionbar"/>-->
@@ -93,7 +92,7 @@ TCC, ACM CSUR, FGCS, JPDC.
 
 #### Conference/Workshop Organization  #####
 
-- TPC Member @ [ScalCom 2023](https://ieee-smart-world-congress.org/scalcom/)
+- TPC Member @ [ScalCom 2023](https://ieee-smart-world-congress.org/program/scalcom2023/overview)
 - Publicity &amp; Social Media Co-Chair @ [ICPE 2023](https://icpe2023.spec.org/)
 - TPC Chair @ 4th International Workshop on Self-Protecting Systems ([SPS 2022](https://sites.google.com/view/sps22workshop))
 - TPC Member @ [DEBS 2022](https://2022.debs.org/index.html)
