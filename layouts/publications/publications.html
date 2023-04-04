@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+
+    Partial lists are also available in <a href="https://dblp.org/pid/214/1442.html">DBLP</a>
+    and <a href="https://scholar.google.com/citations?user=rRiNfS0AAAAJ">Google Scholar</a>.
+
+    {{ range (.Pages.GroupByParam "year").Reverse }}
+    <h3>{{ .Key }}</h3>
+    <ul class="publications">
+        {{ range (.Pages.ByParam "year").Reverse }}
+	<li id="{{ .Title | urlize }}">
+		    <span class="paper-title">{{ .Title }}</span><br/>
+		    <span class="paper-authors">{{ .Params.authors }}</span><br/>
+		    <span class="paper-info">{{ .Params.info }}</span>
+		    <br/>
+		    {{ with .Params.award }}
+		    <span class="paper-award">{{ . }}</span>
+		    <br/>
+		    {{ end }}
+		    <a class="paper-links" href="{{ .Permalink }}">[abstract]</a>
+		    {{ with .Params.pdf }}
+		    <a class="paper-links" style="color: #ff0000;" href="{{ . }}">[pdf]</a>
+		    {{ end }}
+		    {{ with .Params.doi }}
+		    <a class="paper-links" href="{{ . }}">[doi]</a>
+		    {{ end }}
+	    </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</div>
+{{ end }}

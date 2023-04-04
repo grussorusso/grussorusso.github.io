@@ -74,12 +74,6 @@ You can find [here]({{ site.baseurl }}/publications.html) a list of all my publi
 -->
 
 
-<h2 class="homesection">Publications</h2>
-
-A list of publications is available [here](/publications/).
-
-Partial lists are also available in [DBLP](https://dblp.org/pid/214/1442.html)
-and [Scholar](https://scholar.google.com/citations?user=rRiNfS0AAAAJ).
 
 <h2 class="homesection">Service</h2>
 
@@ -88,10 +82,12 @@ and [Scholar](https://scholar.google.com/citations?user=rRiNfS0AAAAJ).
 - I review manuscripts submitted to high-quality scientific journals, including IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE
 TCC, ACM CSUR, FGCS, JPDC.
 
--  I am a member of the *Technical Review Board* of [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td) (2021-2022)
+-  I am a member of the *Technical Review Board* of [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td) (2021-2023)
 
 #### Conference/Workshop Organization  #####
 
+- Workshop Co-Chair @ [AI4AS](https://ai4as.github.io/)
+- TPC Member @ [WSCC 2023](https://wscc2023.di.unipi.it/)
 - TPC Member @ [ScalCom 2023](https://ieee-smart-world-congress.org/program/scalcom2023/overview)
 - Publicity &amp; Social Media Co-Chair @ [ICPE 2023](https://icpe2023.spec.org/)
 - TPC Chair @ 4th International Workshop on Self-Protecting Systems ([SPS 2022](https://sites.google.com/view/sps22workshop))
