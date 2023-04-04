@@ -24,11 +24,19 @@ googleAnalytics = ""  # add your tracking id
     pageWidth = "820px"
     avatarSize = "100px"
     colorBlack = "#222222"
-    colorMain = "#0061cf"
+    colorMain = "#0b5bb5"
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "GitHub"
     url = "https://github.com/grussorusso"
+  [[params.socialIcons]]
+    icon = "ai ai-google-scholar"
+    title = "Scholar"
+    url = "https://scholar.google.com/citations?user=rRiNfS0AAAAJ"
+  [[params.socialIcons]]
+    icon = "ai ai-dblp"
+    title = "DBLP"
+    url = "https://dblp.org/pid/214/1442.html"
 
 #[permalinks]
 #  "/" = "/:filename"
