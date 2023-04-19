@@ -7,12 +7,19 @@ draft: false
 <img src="/images/me.jpg" alt="Gabriele Russo Russo" itemprop="image">
 </div>
 
-I am a Research Associate at the *Department of Engineering* of
+I am a Research Fellow at the *Department of Civil Engineering and Computer
+Science Engineering* of the
+[University of Rome Tor Vergata](https://web.uniroma2.it/en), where I am part of the
+[DAMON](http://www.ce.uniroma2.it) research group.
+
+<!--
+Previously, I was a PostDoc researcher at
 Roma Tre University.
 Previously, I was a Research Associate at the *Department of Civil Engineering and Computer
 Science Engineering* of the
 University of Rome Tor Vergata, where I received my PhD degree in
 May 2021.
+-->
 
 
 My research interests span the area of distributed computing systems with emphasis on
@@ -27,32 +34,35 @@ My current research mainly revolves around:
 <!--<hr class="sectionbar"/>-->
 <a name ="contact"></a>
 <h2 class="homesection">Contact information</h2>
-<!--
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
 Università di Roma "Tor Vergata"<br/>
 Via del Politecnico 1, 00133 Roma, Italy<br/>
-Room: D1-19, Building: "Ingegneria dell'Informazione"<br/>
--->
+<!--Room: D1-19, Building: "Ingegneria dell'Informazione"--><br/>
 
 *Feel free to contact me via e-mail at:*<br/>
+&#114;usso.&#114;usso (&#97;&#116;) ing.uniroma2.it
+
+*or, for questions regarding my teaching at Roma Tre:* <br/>
 g&#114;usso&#114;usso (&#97;&#116;) uniroma3.it<br/>
 
-*or, especially for questions regarding my teaching at Roma2:* <br/>
-&#114;usso.&#114;usso (&#97;&#116;) ing.uniroma2.it
 <!--
 ![](/images/email_addr.png)
 -->
 
 <h2 class="homesection">News</h2>
 
+- *Apr 2023* &raquo; I am organizing the 1st International Workshop on
+  Artificial
+  Intelligence for Autonomous computing Systems ([AI4AS
+  2023](https://ai4as.github.io)), co-located with ACSOS 2023. Submission
+  deadline: June 21!
+
+- *Mar 2023* &raquo; Invited talk at [AIPerf2023](https://aiperf.github.io/aiperf2023/) on "Using Reinforcement
+  Learning to Control Auto-Scaling of Distributed Applications"
+
 - *Mar 2023* &raquo; "Serverless functions in the cloud-edge continuum: Challenges and opportunities" won the
 **Best paper award** in the Special Session on Compute Continuum at *Euromicro PDP '23*
 
-- *Dec 2022* &raquo; "Serverledge: Decentralized Function-as-a-Service for the Edge-Cloud Continuum" accepted at [IEEE PerCom '23](https://www.percom.org)!
-
-
-- *Jan 2022* &raquo; [Run-Time Adaptation of Data Stream Processing Systems: The State of the
-  Art](https://art.torvergata.it/retrieve/handle/2108/288667/577062/csur2022.pdf) has been accepted for publication in ACM Computing Surveys
 
 
 
