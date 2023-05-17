@@ -51,14 +51,15 @@ g&#114;usso&#114;usso (&#97;&#116;) uniroma3.it<br/>
 
 <h2 class="homesection">News</h2>
 
+- *May 2023* &raquo; "[Hierarchical Auto-Scaling Policies for Data Stream Processing on Heterogeneous Resources](https://dl.acm.org/doi/10.1145/3597435)" accepted
+for publication in ACM TAAS!
+
 - *Apr 2023* &raquo; I am organizing the 1st International Workshop on
   Artificial
   Intelligence for Autonomous computing Systems ([AI4AS
   2023](https://ai4as.github.io)), co-located with ACSOS 2023. Submission
   deadline: June 21!
 
-- *Mar 2023* &raquo; Invited talk at [AIPerf2023](https://aiperf.github.io/aiperf2023/) on "Using Reinforcement
-  Learning to Control Auto-Scaling of Distributed Applications"
 
 - *Mar 2023* &raquo; "Serverless functions in the cloud-edge continuum: Challenges and opportunities" won the
 **Best paper award** in the Special Session on Compute Continuum at *Euromicro PDP '23*
