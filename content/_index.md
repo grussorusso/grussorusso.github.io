@@ -37,7 +37,8 @@ My current research mainly revolves around:
 Dipartimento di Ingegneria Civile e Ingegneria Informatica<br/>
 Università di Roma "Tor Vergata"<br/>
 Via del Politecnico 1, 00133 Roma, Italy<br/>
-Room: D1-15, Building: "Ingegneria dell'Informazione"<br/>
+Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
+
 
 *Feel free to contact me via e-mail at:*<br/>
 &#114;usso.&#114;usso (&#97;&#116;) ing.uniroma2.it
