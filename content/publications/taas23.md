@@ -3,7 +3,7 @@ authors: G. Russo Russo, V. Cardellini, F. Lo Presti
 title: "Hierarchical Auto-Scaling Policies for Data Stream Processing on Heterogeneous Resources"
 info: "ACM Transactions on Adaptive Systems"
 doi: "https://dl.acm.org/doi/10.1145/3597435"
-#pdf: "https://art.torvergata.it/retrieve/handle/2108/288667/577062/csur2022.pdf"
+pdf: "http://www.ce.uniroma2.it/publications/TAAS2023.pdf"
 year: 2023
 publication_type: Journal
 selected: true

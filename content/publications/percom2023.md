@@ -3,7 +3,7 @@ authors: "G. Russo Russo, T. Mannucci, V. Cardellini, F. Lo Presti"
 title: "Serverledge: Decentralized Function-as-a-Service for the Edge-Cloud Continuum"
 info: "Proc. of IEEE PerCom '23"
 doi: "https://doi.org/10.1109/PERCOM56429.2023.10099372"
-#pdf: "http://www.ce.uniroma2.it/publications/ccgrid2021.pdf"
+pdf: "http://www.ce.uniroma2.it/publications/serverledgePerCom2023.pdf"
 year: 2023
 publication_type: Conference
 selected: true
