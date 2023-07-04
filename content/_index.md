@@ -50,6 +50,11 @@ Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
 
 <h2 class="homesection">News</h2>
 
+- *June 2023* &raquo; I am organizing the 1st International Workshop on
+  Quality of Service-aware Serverless Computing ([QServ
+  2023](https://qserv23.github.io)), co-located with IEEE/ACM UCC 2023.
+  Submission deadline: **September 1st**!
+
 - *May 2023* &raquo; "[Hierarchical Auto-Scaling Policies for Data Stream Processing on Heterogeneous Resources](https://dl.acm.org/doi/10.1145/3597435)" accepted
 for publication in ACM TAAS!
 
@@ -96,9 +101,9 @@ TCC, ACM CSUR, FGCS, JPDC.
 
 #### Conference/Workshop Organization  #####
 
+- Workshop Co-Chair @ [QServ](https://qserv23.github.io/)
 - Workshop Co-Chair @ [AI4AS](https://ai4as.github.io/)
 - TPC Member @ [WSCC 2023](https://wscc2023.di.unipi.it/)
-- TPC Member @ [ScalCom 2023](https://ieee-smart-world-congress.org/program/scalcom2023/overview)
 - Publicity &amp; Social Media Co-Chair @ [ICPE 2023](https://icpe2023.spec.org/)
 - TPC Chair @ 4th International Workshop on Self-Protecting Systems ([SPS 2022](https://sites.google.com/view/sps22workshop))
 - TPC Member @ [DEBS 2022](https://2022.debs.org/index.html)
