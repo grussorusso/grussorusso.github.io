@@ -53,7 +53,7 @@ Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
 - *June 2023* &raquo; I am organizing the 1st International Workshop on
   Quality of Service-aware Serverless Computing ([QServ
   2023](https://qserv23.github.io)), co-located with IEEE/ACM UCC 2023.
-  Submission deadline: **September 1st**!
+  Submission deadline: **October 2nd**!
 
 - *May 2023* &raquo; "[Hierarchical Auto-Scaling Policies for Data Stream Processing on Heterogeneous Resources](https://dl.acm.org/doi/10.1145/3597435)" accepted
 for publication in ACM TAAS!
@@ -61,12 +61,8 @@ for publication in ACM TAAS!
 - *Apr 2023* &raquo; I am organizing the 1st International Workshop on
   Artificial
   Intelligence for Autonomous computing Systems ([AI4AS
-  2023](https://ai4as.github.io)), co-located with ACSOS 2023. Submission
-  deadline: June 21!
+  2023](https://ai4as.github.io)), co-located with ACSOS 2023.
 
-
-- *Mar 2023* &raquo; "Serverless functions in the cloud-edge continuum: Challenges and opportunities" won the
-**Best paper award** in the Special Session on Compute Continuum at *Euromicro PDP '23*
 
 
 
@@ -97,10 +93,12 @@ You can find [here]({{ site.baseurl }}/publications.html) a list of all my publi
 - I review manuscripts submitted to high-quality scientific journals, including IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE
 TCC, ACM CSUR, FGCS, JPDC.
 
--  I am a member of the *Technical Review Board* of [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td) (2021-2023)
+-  I am a member of the *Technical Review Board* of [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td)
 
 #### Conference/Workshop Organization  #####
 
+- TPC Member, Publicity Chair @ [RTAS 2024](https://2024.rtas.org/)
+- TPC Member @ [SSCOPE 2023](https://sscope-workshop.github.io/)
 - Workshop Co-Chair @ [QServ](https://qserv23.github.io/)
 - Workshop Co-Chair @ [AI4AS](https://ai4as.github.io/)
 - TPC Member @ [WSCC 2023](https://wscc2023.di.unipi.it/)
