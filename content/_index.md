@@ -26,9 +26,8 @@ My research interests span the area of distributed computing systems with emphas
 performance optimization and run-time self-adaptation.
 My current research mainly revolves around:
 
-- Function-as-a-Service in the Edge-Cloud Continuum
-- Performance optimization of data-intensive applications
-- Workflow scheduling in the Cloud
+- Servrless computing in the Edge-Cloud Continuum
+- Scheduling and resource allocation for data-intensive systems
 
 
 <!--<hr class="sectionbar"/>-->
@@ -53,7 +52,6 @@ Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
 - *June 2023* &raquo; I am organizing the 1st International Workshop on
   Quality of Service-aware Serverless Computing ([QServ
   2023](https://qserv23.github.io)), co-located with IEEE/ACM UCC 2023.
-  Submission deadline: **October 2nd**!
 
 - *May 2023* &raquo; "[Hierarchical Auto-Scaling Policies for Data Stream Processing on Heterogeneous Resources](https://dl.acm.org/doi/10.1145/3597435)" accepted
 for publication in ACM TAAS!
@@ -98,6 +96,8 @@ TCC, ACM CSUR, FGCS, JPDC.
 #### Conference/Workshop Organization  #####
 
 - TPC Member, Publicity Chair @ [RTAS 2024](https://2024.rtas.org/)
+- TPC Member @ [AIPerf 2024](https://ai-perf.github.io/AIPerf2024/)
+- TPC Member @ [COHERENT 2024](https://sites.google.com/view/coherent2024/home?authuser=0)
 - TPC Member @ [SSCOPE 2023](https://sscope-workshop.github.io/)
 - Workshop Co-Chair @ [QServ](https://qserv23.github.io/)
 - Workshop Co-Chair @ [AI4AS](https://ai4as.github.io/)
