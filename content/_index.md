@@ -97,6 +97,7 @@ TCC, ACM CSUR, FGCS, JPDC.
 
 - TPC Member, Publicity Chair @ [RTAS 2024](https://2024.rtas.org/)
 - TPC Member @ [AIPerf 2024](https://ai-perf.github.io/AIPerf2024/)
+- TPC Member @ [WOCC 2024](https://kth-scalab.github.io/events/wocc24)
 - TPC Member @ [COHERENT 2024](https://sites.google.com/view/coherent2024/home?authuser=0)
 - TPC Member @ [SSCOPE 2023](https://sscope-workshop.github.io/)
 - Workshop Co-Chair @ [QServ](https://qserv23.github.io/)
