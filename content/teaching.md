@@ -9,6 +9,9 @@ Science:
   Presti)
 - *Hands-on Cloud Computing Services*, supplementary course (10 hours)
 
+In March/April 2024, I also hold a 10-hour doctoral course on *Reinforcement
+Learning for Run-time Performance Management*. [Slides
+(partial)](/slides/RL-Roma2.pdf)
 
 
 Check my [CV](/cv.pdf) for 

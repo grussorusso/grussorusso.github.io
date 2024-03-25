@@ -26,7 +26,7 @@ My research interests span the area of distributed computing systems with emphas
 performance optimization and run-time self-adaptation.
 My current research mainly revolves around:
 
-- Servrless computing in the Edge-Cloud Continuum
+- Serverless computing in the Edge-Cloud Continuum
 - Scheduling and resource allocation for data-intensive systems
 
 
