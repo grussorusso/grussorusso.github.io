@@ -49,13 +49,14 @@ Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
 
 <h2 class="homesection">News</h2>
 
+- *Apr 2024* &raquo; I am organizing the *2nd Int'l Workshop on Artificial
+  Intelligence for Autonomous computing Systems* (AI4AS 2024), co-located with
+  ACSOS 2024. [More info](https://ai4as.github.io/)
 
 - *Feb 2024* &raquo; "[QoS-aware offloading policies for serverless functions in the Cloud-to-Edge continuum](https://doi.org/10.1016/j.future.2024.02.019)" accepted for publication in FGCS!
 
 - *Jan 2024* &raquo; *Wasimoff: Distributed Computation Offloading Using WebAssembly in the Browser* will be presented at [\*LESS 2024](https://starless.iit.cnr.it/)
 
-- *May 2023* &raquo; "[Hierarchical Auto-Scaling Policies for Data Stream Processing on Heterogeneous Resources](https://dl.acm.org/doi/10.1145/3597435)" accepted
-for publication in ACM TAAS!
 
 <!--
 - *Apr 2023* &raquo; I am organizing the 1st International Workshop on
