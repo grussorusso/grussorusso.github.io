@@ -49,6 +49,10 @@ Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
 
 <h2 class="homesection">News</h2>
 
+- *May 2024* &raquo; I am serving as guest editor for the **special issue
+of ACM TAAS** on *Artificial Intelligence for Adaptive and Autonomous Cloud/Edge Computing Systems* (deadline: October 2024; CFP soon online
+[here](https://dl.acm.org/journal/taas/calls-for-papers))
+
 - *Apr 2024* &raquo; I am organizing the *2nd Int'l Workshop on Artificial
   Intelligence for Autonomous computing Systems* (AI4AS 2024), co-located with
   ACSOS 2024. [More info](https://ai4as.github.io/)
