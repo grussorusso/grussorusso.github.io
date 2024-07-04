@@ -49,6 +49,10 @@ Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
 
 <h2 class="homesection">News</h2>
 
+- *June 2024* &raquo; I am organizing the 4th edition of the workshop series
+on *serverless computing for pervasive cloud-edge-device systems and services* (\*LESS 2025), co-located with
+  IEEE PerCom 2025. [More info](https://starless.iit.cnr.it/)
+
 - *May 2024* &raquo; I am serving as guest editor for the **special issue
 of ACM TAAS** on *Artificial Intelligence for Adaptive and Autonomous Cloud/Edge Computing Systems* (deadline: October 2024; CFP soon online
 [here](https://dl.acm.org/journal/taas/calls-for-papers))
@@ -57,9 +61,6 @@ of ACM TAAS** on *Artificial Intelligence for Adaptive and Autonomous Cloud/Edge
   Intelligence for Autonomous computing Systems* (AI4AS 2024), co-located with
   ACSOS 2024. [More info](https://ai4as.github.io/)
 
-- *Feb 2024* &raquo; "[QoS-aware offloading policies for serverless functions in the Cloud-to-Edge continuum](https://doi.org/10.1016/j.future.2024.02.019)" accepted for publication in FGCS!
-
-- *Jan 2024* &raquo; *Wasimoff: Distributed Computation Offloading Using WebAssembly in the Browser* will be presented at [\*LESS 2024](https://starless.iit.cnr.it/)
 
 
 <!--
@@ -97,7 +98,7 @@ You can find [here]({{ site.baseurl }}/publications.html) a list of all my publi
 #### Reviewer for Journals  #####
 
 - I review manuscripts submitted to high-quality scientific journals, including IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE
-TCC, ACM CSUR, FGCS, JPDC.
+TCC, ACM CSUR, ACM TAAS, FGCS, JPDC.
 
 -  I am a member of the *Technical Review Board* of [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td)
 
