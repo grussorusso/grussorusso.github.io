@@ -2,12 +2,13 @@
 title: Teaching
 ---
 
-In the A.Y. 2023/24 I teach the following courses for the MSc in Computer
-Science:
+In the A.Y. 2024/25 I teach the following courses for the MSc in Computer
+Science (in Italian):
 
-- [*Machine Learning*](http://www.ce.uniroma2.it/courses/ml2324/) (6 ECTS taught by me; 3 ECTS taught by Francesco Lo
+- [*Machine Learning*](http://www.ce.uniroma2.it/courses/ml2425/) (6 ECTS taught by me; 3 ECTS taught by Francesco Lo
   Presti)
-- *Hands-on Cloud Computing Services*, supplementary course (10 hours)
+- [*Distributed Systems and Cloud
+  Computing*](http://www.ce.uniroma2.it/courses/sdcc2425/) (1 ECTS taught by me; 8 ECTS taught by Valeria Cardellini)
 
 In March/April 2024, I also hold a 10-hour doctoral course on *Reinforcement
 Learning for Run-time Performance Management*. [Slides

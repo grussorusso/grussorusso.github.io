@@ -54,7 +54,7 @@ on *serverless computing for pervasive cloud-edge-device systems and services* (
   IEEE PerCom 2025. [More info](https://starless.iit.cnr.it/)
 
 - *May 2024* &raquo; I am serving as guest editor for the **special issue
-of ACM TAAS** on *Artificial Intelligence for Adaptive and Autonomous Cloud/Edge Computing Systems* (deadline: October 2024; CFP soon online
+of ACM TAAS** on *Artificial Intelligence for Adaptive and Autonomous Cloud/Edge Computing Systems* (deadline: November 5, 2024; CFP online
 [here](https://dl.acm.org/journal/taas/calls-for-papers))
 
 - *Apr 2024* &raquo; I am organizing the *2nd Int'l Workshop on Artificial
@@ -104,6 +104,9 @@ TCC, ACM CSUR, ACM TAAS, FGCS, JPDC.
 
 #### Conference/Workshop Organization  #####
 
+- TPC Member @ [ICDCS 2025](https://2024.rtas.org/), Edge track
+- TPC Member @ [CLOSER 2025](https://closer.scitevents.org/)
+- TPC Member @ [SAC 2025](https://www.sigapp.org/sac/sac2025/)
 - TPC Member, Publicity Chair @ [RTAS 2024](https://2024.rtas.org/)
 - TPC Member @ [AIPerf 2024](https://ai-perf.github.io/AIPerf2024/)
 - TPC Member @ [WOCC 2024](https://kth-scalab.github.io/events/wocc24)
