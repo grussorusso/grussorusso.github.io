@@ -49,10 +49,6 @@ Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
 
 <h2 class="homesection">News</h2>
 
-- *June 2024* &raquo; I am organizing the 4th edition of the workshop series
-on *serverless computing for pervasive cloud-edge-device systems and services* (\*LESS 2025), co-located with
-  IEEE PerCom 2025. [More info](https://starless.iit.cnr.it/)
-
 - *May 2024* &raquo; I am serving as guest editor for the **special issue
 of ACM TAAS** on *Artificial Intelligence for Adaptive and Autonomous Cloud/Edge Computing Systems* (deadline: November 5, 2024; CFP online
 [here](https://dl.acm.org/journal/taas/calls-for-papers))
@@ -62,13 +58,6 @@ of ACM TAAS** on *Artificial Intelligence for Adaptive and Autonomous Cloud/Edge
   ACSOS 2024. [More info](https://ai4as.github.io/)
 
 
-
-<!--
-- *Apr 2023* &raquo; I am organizing the 1st International Workshop on
-  Artificial
-  Intelligence for Autonomous computing Systems ([AI4AS
-  2023](https://ai4as.github.io)), co-located with ACSOS 2023.
--->
 
 
 
@@ -104,18 +93,16 @@ TCC, ACM CSUR, ACM TAAS, FGCS, JPDC.
 
 #### Conference/Workshop Organization  #####
 
+I have been recently involved in the following events:
+
 - TPC Member @ [ICDCS 2025](https://2024.rtas.org/), Edge track
+- TPC Member @ [CCGRID 2025](https://site.uit.no/ccgrid2025/)
 - TPC Member @ [CLOSER 2025](https://closer.scitevents.org/)
 - TPC Member @ [SAC 2025](https://www.sigapp.org/sac/sac2025/)
-- TPC Member, Publicity Chair @ [RTAS 2024](https://2024.rtas.org/)
-- TPC Member @ [AIPerf 2024](https://ai-perf.github.io/AIPerf2024/)
-- TPC Member @ [WOCC 2024](https://kth-scalab.github.io/events/wocc24)
-- TPC Member @ [COHERENT 2024](https://sites.google.com/view/coherent2024/home?authuser=0)
-- TPC Member @ [SSCOPE 2023](https://sscope-workshop.github.io/)
-- Workshop Co-Chair @ [QServ](https://qserv23.github.io/)
+- TPC Member @ [AIPerf 2025](https://ai-perf.github.io/AIPerf2024/)
 - Workshop Co-Chair @ [AI4AS](https://ai4as.github.io/)
-- TPC Member @ [WSCC 2023](https://wscc2023.di.unipi.it/)
+- TPC Member, Publicity Chair @ [RTAS 2024](https://2024.rtas.org/)
+- TPC Member @ [WOCC 2024](https://kth-scalab.github.io/events/wocc24)
+- Workshop Co-Chair @ [QServ](https://qserv23.github.io/)
 - Publicity &amp; Social Media Co-Chair @ [ICPE 2023](https://icpe2023.spec.org/)
-- TPC Chair @ 4th International Workshop on Self-Protecting Systems ([SPS 2022](https://sites.google.com/view/sps22workshop))
 - TPC Member @ [DEBS 2022](https://2022.debs.org/index.html)
-- Shadow TPC Member @ [EuroSys 2022](https://2022.eurosys.org/)
