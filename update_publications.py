@@ -10,6 +10,9 @@ OVERWRITE_EXISTING=True
 def supetrim(string):
     return string.replace("\\" , "").replace("{" , "").replace("}" , "").replace("\n"," ")
 
+def mystrip(string):
+    return string.strip(' "')
+
 def parse_bib (bibfile):
     with open(bibfile) as bibtex_file:
         return bibtexparser.load(bibtex_file)
@@ -44,9 +47,9 @@ def write_entry (entry, outf):
     outf.write(f'year: {entry["year"]}\n')
 
     if "url" in entry:
-        outf.write(f'doi: "{entry["url"]}"\n')
+        outf.write(f'doi: "{mystrip(entry["url"])}"\n')
     if "pdf" in entry:
-        outf.write(f'pdf: "{entry["pdf"]}"\n')
+        outf.write(f'pdf: "{mystrip(entry["pdf"])}"\n')
     print("layout: publication", file=outf)
     print("---", file=outf)
 
