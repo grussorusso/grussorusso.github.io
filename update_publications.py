@@ -2,7 +2,7 @@ import bibtexparser
 import os
 import re
 
-BIBFILE="/home/gabriele/cv/publications/publications.bib"
+BIBFILE="./publications.bib"
 OUTDIR="content/publications"
 SKIP_EXISTING=False
 OVERWRITE_EXISTING=True
