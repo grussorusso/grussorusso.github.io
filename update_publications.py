@@ -2,13 +2,16 @@ import bibtexparser
 import os
 import re
 
-BIBFILE="/home/gabriele/cv/publications/publications.bib"
+BIBFILE="./publications.bib"
 OUTDIR="content/publications"
 SKIP_EXISTING=False
 OVERWRITE_EXISTING=True
 
 def supetrim(string):
     return string.replace("\\" , "").replace("{" , "").replace("}" , "").replace("\n"," ")
+
+def mystrip(string):
+    return string.strip(' "')
 
 def parse_bib (bibfile):
     with open(bibfile) as bibtex_file:
@@ -44,11 +47,9 @@ def write_entry (entry, outf):
     outf.write(f'year: {entry["year"]}\n')
 
     if "url" in entry:
-        url = entry["url"].strip('"')
-        outf.write(f'doi: "{url}"\n')
+        outf.write(f'doi: "{mystrip(entry["url"])}"\n')
     if "pdf" in entry:
-        url = entry["pdf"].strip('"')
-        outf.write(f'pdf: "{url}"\n')
+        outf.write(f'pdf: "{mystrip(entry["pdf"])}"\n')
     print("layout: publication", file=outf)
     print("---", file=outf)
 
