@@ -4,6 +4,5 @@ title: "Self-Adaptive Data Stream Processing in Geo-Distributed Computing
 Environments"
 info: "Proceedings of the 13th ACM International Conference on Distributed and Event-based Systems, DEBS 2019, Darmstadt, Germany, June 24-28, 2019"
 year: 2019
-doi: "https://doi.org/10.1145/3328905.3332304"
 layout: publication
 ---

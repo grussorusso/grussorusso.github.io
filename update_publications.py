@@ -44,9 +44,11 @@ def write_entry (entry, outf):
     outf.write(f'year: {entry["year"]}\n')
 
     if "url" in entry:
-        outf.write(f'doi: "{entry["url"]}"\n')
+        url = entry["url"].strip('"')
+        outf.write(f'doi: "{url}"\n')
     if "pdf" in entry:
-        outf.write(f'pdf: "{entry["pdf"]}"\n')
+        url = entry["pdf"].strip('"')
+        outf.write(f'pdf: "{url}"\n')
     print("layout: publication", file=outf)
     print("---", file=outf)
 

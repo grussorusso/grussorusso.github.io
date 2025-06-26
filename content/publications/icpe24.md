@@ -4,6 +4,5 @@ title: "Function Offloading and Data Migration for Stateful Serverless Edge
 Computing"
 info: "Proceedings of the 15th ACM/SPEC International Conference on Performance Engineering, ICPE 2024, London, United Kingdom, May 7-11, 2024"
 year: 2024
-doi: "https://doi.org/10.1145/3629526.3649293"
 layout: publication
 ---
