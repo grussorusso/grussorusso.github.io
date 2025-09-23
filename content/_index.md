@@ -49,6 +49,10 @@ Room: D1-15, Building: "Ingegneria dell'Informazione"<br/><br/>
 
 <h2 class="homesection">News</h2>
 
+- *Jul 2025* &raquo; I am organizing the *First Int'l Workshop on 
+ Agentic AI and LLMs in the Computing Continuum* (AI-CC 2025), co-located with
+  UCC 2025. [More info](https://sites.google.com/view/ai-cc25/)
+
 - *Apr 2025* &raquo; I am organizing the *3rd Int'l Workshop on Artificial
   Intelligence for Autonomous computing Systems* (AI4AS 2025), co-located with
   ACSOS 2025. [More info](https://ai4as.github.io/)
@@ -96,6 +100,8 @@ TCC, ACM CSUR, ACM TAAS, FGCS, JPDC.
 
 I have been recently involved in the following events:
 
+- TPC Member @ [RTAS 2026](https://2026.rtas.org/committee/)
+- TPC Member @ [IPDPS 2026](https://www.ipdps.org/ipdps2026/2026-program-committee.html)
 - TPC Member @ [ICDCS 2025](https://2024.rtas.org/), Edge track
 - TPC Member @ [CCGRID 2025](https://site.uit.no/ccgrid2025/)
 - TPC Member @ [CLOSER 2025](https://closer.scitevents.org/)
