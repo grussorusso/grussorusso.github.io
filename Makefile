@@ -3,4 +3,4 @@ all: update_pubs
 update_pubs:
 	python update_publications.py
 serve:
-	hugo server --port 4000 -Dv --disableFastRender
+	hugo server --port 4000 -D --disableFastRender

@@ -1,7 +1,7 @@
 ---
 authors: "M. Nardelli, G. Russo Russo, V. Cardellini"
 title: "Compute continuum: What lies ahead?"
-info: "Proceedings of the 1st International Workshop on Scalable Compute Continuum (in conjunction with Euro-Par 2023)"
+info: "Euro-Par 2023: Parallel Processing Workshops - Euro-Par 2023 International Workshops, Limassol, Cyprus, August 28 - September 1, 2023, Revised Selected Papers, Part I"
 year: 2023
 layout: publication
 ---
