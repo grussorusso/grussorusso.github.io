@@ -97,17 +97,15 @@ TCC, ACM CSUR, ACM TAAS, FGCS, JPDC.
 
 I have been recently involved in the following events:
 
+- Workshop Co-Chair @ [AI4AS](https://ai4as.github.io/)
+- TPC Member @ [ICDCS 2025](https://2024.rtas.org/), Edge track
+- TPC Member @ [DEBS 2026](https://2026.debs.org/program-committee/)
 - TPC Member @ [CCGRID 2026](https://ccgrid2026.cdms.westernsydney.edu.au/program-committees.php)
 - TPC Member @ [RTAS 2026](https://2026.rtas.org/committee/)
 - TPC Member @ [IPDPS 2026](https://www.ipdps.org/ipdps2026/2026-program-committee.html)
-- TPC Member @ [ICDCS 2025](https://2024.rtas.org/), Edge track
 - TPC Member @ [CCGRID 2025](https://site.uit.no/ccgrid2025/)
 - TPC Member @ [CLOSER 2025](https://closer.scitevents.org/)
 - TPC Member @ [SAC 2025](https://www.sigapp.org/sac/sac2025/)
 - TPC Member @ [AIPerf 2025](https://ai-perf.github.io/AIPerf2024/)
-- Workshop Co-Chair @ [AI4AS](https://ai4as.github.io/)
 - TPC Member, Publicity Chair @ [RTAS 2024](https://2024.rtas.org/)
-- TPC Member @ [WOCC 2024](https://kth-scalab.github.io/events/wocc24)
-- Workshop Co-Chair @ [QServ](https://qserv23.github.io/)
 - Publicity &amp; Social Media Co-Chair @ [ICPE 2023](https://icpe2023.spec.org/)
-- TPC Member @ [DEBS 2022](https://2022.debs.org/index.html)
