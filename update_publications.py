@@ -44,7 +44,7 @@ def write_entry (entry, outf):
     else:
         info = supetrim(entry["booktitle"])
     outf.write(f'info: "{info}"\n')
-    outf.write(f'year: {entry["year"]}\n')
+    outf.write(f'year: "{entry["year"]}"\n')
 
     if "url" in entry:
         outf.write(f'doi: "{mystrip(entry["url"])}"\n')
