@@ -1,4 +1,4 @@
-languageCode = "en-us"
+locale = "en-us"
 title = "Gabriele Russo Russo"
 theme = "researcher"
 staticDir = "assets"
@@ -43,27 +43,29 @@ googleAnalytics = ""  # add your tracking id
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "News"
+    url = "/#news"
     weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/#research"
+    weight = 2
   [[menu.main]]
     name = "Publications"
     url = "/publications"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Teaching"
-    url = "/teaching"
-    weight = 2
+    url = "/#teaching"
+    weight = 4
+  [[menu.main]]
+    name = "Service"
+    url = "/#service"
+    weight = 5
   [[menu.main]]
     name = "Software"
-    url = "/software"
-    weight = 2
-  [[menu.main]]
-    name = "CV"
-    url = "/cv.pdf"
-    weight = 2
-    # 'pre' and 'post' hooks are available
-	#pre = '<i class="my-fa-icon fa-regular fa-file-pdf"></i>&nbsp;'
+    url = "/#software"
+    weight = 6
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files

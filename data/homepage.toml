@@ -1,0 +1,75 @@
+[profile]
+name = "Gabriele Russo Russo"
+role = "Assistant Professor · University of Rome Tor Vergata"
+statement = "I am an Assistant Professor (RTT) at the Department of Civil Engineering and Computer Science Engineering of the University of Rome Tor Vergata. My research focuses on distributed computing systems with emphasis on performance optimization, runtime self-adaptation, serverless computing in the edge-cloud continuum, and resource management for AI/ML workloads."
+avatar = "/images/me.jpg"
+
+[profile.links]
+scholar = "https://scholar.google.com/citations?user=rRiNfS0AAAAJ"
+orcid = "https://orcid.org/0000-0003-1250-7080"
+github = "https://github.com/grussorusso"
+cv = "/cv.pdf"
+
+[[news]]
+date = "Jun 2026"
+text = "Our paper \"Spec2FaaS: using AI Agents for Autonomous Serverless Function Development and Deployment\" has been accepted at DEBS 2026!"
+
+[[news]]
+date = "Mar 2026"
+text = "I am co-organizing the 4th Int'l Workshop on Artificial Intelligence for Autonomous computing Systems (AI4AS 2026), co-located with ACSOS 2026."
+link = "https://ai4as.github.io/"
+
+[[news]]
+date = "Mar 2026"
+text = "I am co-organizing WSCC 2026 co-located with Euro-Par 2026."
+link = "https://wscc.di.unipi.it/"
+
+[[research]]
+title = "Serverless Edge-Cloud"
+description = "Architectures, function offloading strategies, and dynamic resource management for Function-as-a-Service across edge-cloud continuum infrastructure."
+
+[[research]]
+title = "Runtime Adaptation & Performance"
+description = "Self-adaptive software systems, autonomous performance tuning, control theoretical methods, and reinforcement learning for dynamic cloud and edge environments."
+
+[[research]]
+title = "AI/ML Systems"
+description = "Scheduling, model partitioning, and resource allocation for AI/ML inference workloads, alongside agentic AI workflows for serverless systems."
+
+[[software]]
+title = "Serverledge"
+description = "A Function-as-a-Service framework designed for Edge-Cloud environments, presented at IEEE PerCom '23. Serverledge relies on a decentralized architecture with no centralized gateways for function invocations, supporting horizontal and vertical function execution offloading. Written in Go."
+paper = "https://doi.org/10.1109/PERCOM56429.2023.10099372"
+github = "https://github.com/grussorusso/serverledge"
+
+[teaching]
+intro = "In the A.Y. 2025/26 I teach the following courses for the MSc in Computer Science (in Italian):"
+courses = [
+  { name = "Machine Learning", ects = "9 ECTS", link = "http://www.ce.uniroma2.it/courses/ml2526/" },
+  { name = "Distributed Systems and Cloud Computing", ects = "1 ECTS module", link = "http://www.ce.uniroma2.it/courses/sdcc2526/" }
+]
+doctoral = "In March/April 2025, I held a 10-hour doctoral course on Reinforcement Learning for Run-time Performance Management."
+doctoral_slides = "/slides/RL-Roma2.pdf"
+
+[service]
+journals_text = "I review manuscripts submitted to scientific journals, including IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE TCC, ACM CSUR, ACM TAAS, FGCS, JPDC."
+trb_text = "Member of the Technical Review Board of IEEE Transactions on Parallel and Distributed Systems (TPDS)."
+
+organization = [
+  "Tutorial Co-Chair @ ACSOS 2026",
+  "Workshop Co-Chair @ AI4AS 2026",
+  "Workshop Co-Chair @ WSCC 2026",
+  "TPC Member @ ICDCS 2026",
+  "TPC Member @ EuroPar 2026",
+  "TPC Member @ DEBS 2026",
+  "TPC Member @ CCGRID 2026",
+  "TPC Member @ RTAS 2026",
+  "TPC Member @ IPDPS 2026"
+]
+
+[contact]
+department = "Dipartimento di Ingegneria Civile e Ingegneria Informatica"
+university = "Università di Roma \"Tor Vergata\""
+address = "Via del Politecnico 1, 00133 Roma, Italy"
+office = "Room: D1-15, Building: \"Ingegneria dell'Informazione\""
+email = "russo.russo (at) ing.uniroma2.it"

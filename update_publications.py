@@ -46,10 +46,14 @@ def write_entry (entry, outf):
     outf.write(f'info: "{info}"\n')
     outf.write(f'year: "{entry["year"]}"\n')
 
+    if "selected" in entry or entry.get("selected") == "true":
+        outf.write("selected: true\n")
     if "url" in entry:
         outf.write(f'doi: "{mystrip(entry["url"])}"\n')
     if "pdf" in entry:
         outf.write(f'pdf: "{mystrip(entry["pdf"])}"\n')
+    if "code" in entry:
+        outf.write(f'code: "{mystrip(entry["code"])}"\n')
     print("layout: publication", file=outf)
     print("---", file=outf)
 
