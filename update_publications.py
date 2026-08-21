@@ -46,10 +46,14 @@ def write_entry (entry, outf):
     outf.write(f'info: "{info}"\n')
     outf.write(f'year: "{entry["year"]}"\n')
 
+    if "selected" in entry and str(entry["selected"]).strip().lower() in ["true", "1", "yes"]:
+        outf.write("selected: true\n")
     if "url" in entry:
         outf.write(f'doi: "{mystrip(entry["url"])}"\n')
     if "pdf" in entry:
         outf.write(f'pdf: "{mystrip(entry["pdf"])}"\n')
+    if "code" in entry:
+        outf.write(f'code: "{mystrip(entry["code"])}"\n')
     print("layout: publication", file=outf)
     print("---", file=outf)
 
@@ -64,6 +68,7 @@ def process (entry):
 
     # Determine output filename
     outfile = os.path.join(OUTDIR, f"{key}.md")
+    
     if os.path.exists(outfile):
         if SKIP_EXISTING:
             return

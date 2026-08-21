@@ -1,0 +1,150 @@
+{{ define "main" }}
+<div class="container site-single-page">
+
+  <!-- HEADER / BIO SECTION -->
+  {{ with site.GetPage "sections/bio" }}
+  {{ $bio := . }}
+  <section id="bio" class="page-section bio-section">
+    <div class="bio-header">
+      {{ with $bio.Params.avatar }}
+      <div class="avatar">
+        <img src="{{ . }}" alt="{{ $bio.Params.name }}" itemprop="image">
+      </div>
+      {{ end }}
+      <h1 class="profile-name">{{ $bio.Params.name }}</h1>
+      
+      <div class="profile-contact">
+        {{ with $bio.Params.role }}<div>{{ . }}</div>{{ end }}
+        {{ with $bio.Params.department }}<div>{{ . }}</div>{{ end }}
+        {{ with $bio.Params.university }}<div>{{ . }}</div>{{ end }}
+        {{ with $bio.Params.address }}<div>{{ . }} </div>{{ end }}
+	{{ with $bio.Params.office }}<div><b>Office:</b> {{ . }}</div>{{ end }}
+	{{ with $bio.Params.email }}<div><b>Email:</b> <code>{{ . }}</code></div>{{ end }}
+      </div>
+
+      <div class="social-badges">
+        {{ with .Params.orcid }}
+        <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[ORCID]</a>
+        {{ end }}
+        {{ with .Params.scholar }}
+        <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[Google Scholar]</a>
+        {{ end }}
+        {{ with .Params.dblp }}
+        <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[DBLP]</a>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="research-statement">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
+
+  <hr class="section-divider" />
+
+  <!-- NEWS SECTION -->
+  {{ with site.GetPage "sections/news" }}
+  <section id="news" class="page-section">
+    <h2 class="section-title">{{ .Title }}</h2>
+    <div class="news-content">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
+
+  <hr class="section-divider" />
+
+  <!-- RESEARCH SECTION -->
+  {{ with site.GetPage "sections/research" }}
+  <section id="research" class="page-section">
+    <h2 class="section-title">{{ .Title }}</h2>
+    <div class="research-content">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
+
+  <hr class="section-divider" />
+
+  <!-- SELECTED PUBLICATIONS SECTION -->
+  <section id="publications" class="page-section">
+    <h2 class="section-title">SELECTED PUBLICATIONS</h2>
+    <ul class="selected-publications">
+      {{ $selected := where (where site.RegularPages "Section" "publications") ".Params.selected" true }}
+      {{ range sort $selected ".Params.year" "desc" }}
+      <li class="pub-entry">
+        <div class="pub-year-col">{{ .Params.year }}</div>
+        <div class="pub-details-col">
+          <div class="pub-title">{{ .Title }}</div>
+          <div class="pub-meta">
+            <span class="pub-authors">{{ .Params.authors }}</span> &middot; <span class="pub-venue">{{ .Params.info }}</span>
+          </div>
+          <div class="pub-links">
+            {{ if .Params.pdf }}
+            <a class="badge-btn paper-badge" href="{{ .Params.pdf }}" target="_blank" rel="noopener">[paper]</a>
+            {{ else if .Params.doi }}
+            <a class="badge-btn paper-badge" href="{{ .Params.doi }}" target="_blank" rel="noopener">[paper]</a>
+            {{ else }}
+            <a class="badge-btn paper-badge" href="{{ .Permalink }}">[paper]</a>
+            {{ end }}
+          </div>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+    <div class="all-publications-link">
+      <a href="{{ "publications" | relURL }}">&rarr; All publications</a>
+    </div>
+  </section>
+
+  <hr class="section-divider" />
+
+  <!-- TEACHING SECTION -->
+  {{ with site.GetPage "sections/teaching" }}
+  <section id="teaching" class="page-section">
+    <h2 class="section-title">{{ .Title }}</h2>
+    <div class="teaching-content">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
+
+  <hr class="section-divider" />
+
+  <!-- STUDENTS SECTION -->
+  {{ with site.GetPage "sections/students" }}
+  <section id="students" class="page-section">
+    <h2 class="section-title">{{ .Title }}</h2>
+    <div class="students-content">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
+
+  <hr class="section-divider" />
+
+  <!-- SERVICE SECTION -->
+  {{ with site.GetPage "sections/service" }}
+  <section id="service" class="page-section">
+    <h2 class="section-title">{{ .Title }}</h2>
+    <div class="service-content">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
+
+  <hr class="section-divider" />
+
+  <!-- SOFTWARE SECTION -->
+  {{ with site.GetPage "sections/software" }}
+  <section id="software" class="page-section">
+    <h2 class="section-title">{{ .Title }}</h2>
+    <div class="software-content">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
+
+</div>
+{{ end }}
