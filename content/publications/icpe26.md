@@ -5,6 +5,5 @@ Continuum (Work In Progress Paper)"
 info: "Proceedings of the 17th ACM/SPEC International Conference on Performance Engineering, ICPE Companion 2026"
 year: "2026"
 doi: "https://doi.org/10.1145/3777911.3801106"
-selected: true
 layout: publication
 ---

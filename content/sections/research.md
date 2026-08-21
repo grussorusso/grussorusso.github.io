@@ -2,11 +2,9 @@
 title: "RESEARCH"
 ---
 
-### Serverless Edge-Cloud
-Architectures, function offloading strategies, and dynamic resource management for Function-as-a-Service across edge-cloud continuum infrastructure.
+My research activities currently revolve around the following main topics:
 
-### Runtime Adaptation & Performance
-Self-adaptive software systems, autonomous performance tuning, control theoretical methods, and reinforcement learning for dynamic cloud and edge environments.
+- **Serverless computing in the Edge-Cloud Continuum**: architectures, scheduling and offloading strategies, and dynamic resource management for Function-as-a-Service across the Edge-cloud Continuum.
 
-### AI/ML Systems
-Scheduling, model partitioning, and resource allocation for AI/ML inference workloads, alongside agentic AI workflows for serverless systems.
+- **Runtime Performance Management**: performance modeling and optimization of distributed
+  applications, focusing in particular on AI/ML inference workloads.

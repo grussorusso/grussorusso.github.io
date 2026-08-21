@@ -4,11 +4,15 @@ title: "SERVICE"
 
 #### Reviewer for Journals
 
-- I review manuscripts submitted to scientific journals, including IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE TCC, ACM CSUR, ACM TAAS, FGCS, JPDC.
-- Member of the *Technical Review Board* of [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td).
+I review manuscripts submitted to high-quality scientific journals, including IEEE TPDS, IEEE TMC, IEEE TNSM, IEEE TCC, ACM CSUR, ACM TAAS, FGCS, JPDC.
+
+Since 2021, I am a member of the *Technical Review Board* of [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td).
 
 #### Conference & Workshop Organization
 
+Recent contributions to conference/workshop organization include:
+
+- Artifact Evaluation Co-Chair @ [ICPE 2027](https://icpe2027.spec.org/)
 - Tutorial Co-Chair @ [ACSOS 2026](https://2026.acsos.org/)
 - Workshop Co-Chair @ [AI4AS 2026](https://ai4as.github.io/)
 - Workshop Co-Chair @ [WSCC 2026](https://wscc.di.unipi.it/)

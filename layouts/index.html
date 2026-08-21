@@ -16,22 +16,21 @@
       <div class="profile-contact">
         {{ with $bio.Params.role }}<div>{{ . }}</div>{{ end }}
         {{ with $bio.Params.department }}<div>{{ . }}</div>{{ end }}
-        {{ with $bio.Params.address }}<div>{{ . }} &middot; {{ $bio.Params.office }}</div>{{ end }}
-        {{ with $bio.Params.email }}<div>Email: <code>{{ . }}</code></div>{{ end }}
+        {{ with $bio.Params.university }}<div>{{ . }}</div>{{ end }}
+        {{ with $bio.Params.address }}<div>{{ . }} </div>{{ end }}
+	{{ with $bio.Params.office }}<div><b>Office:</b> {{ . }}</div>{{ end }}
+	{{ with $bio.Params.email }}<div><b>Email:</b> <code>{{ . }}</code></div>{{ end }}
       </div>
 
       <div class="social-badges">
-        {{ with .Params.scholar }}
-        <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[Google Scholar]</a>
-        {{ end }}
         {{ with .Params.orcid }}
         <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[ORCID]</a>
         {{ end }}
-        {{ with .Params.github }}
-        <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[GitHub]</a>
+        {{ with .Params.scholar }}
+        <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[Google Scholar]</a>
         {{ end }}
-        {{ with .Params.cv }}
-        <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[CV]</a>
+        {{ with .Params.dblp }}
+        <a class="badge-btn" href="{{ . }}" target="_blank" rel="noopener">[DBLP]</a>
         {{ end }}
       </div>
     </div>
